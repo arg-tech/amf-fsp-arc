@@ -1,0 +1,982 @@
+{
+    "argument_data": [
+        {
+            "AC1": "there is the accelerating investment across the IMT business",
+            "AC2": "there's a lot of moving parts",
+            "Relation": "RA",
+            "AC1ID": "1028851",
+            "AC2ID": "1028855",
+            "RelationID": "1040977",
+            "Results_AC1": [
+                {
+                    "frame_label": "Businesses",
+                    "relevant_elements": {
+                        "Place": "IMT",
+                        "Business": "business"
+                    },
+                    "relevant_trigger_word": "business",
+                    "prompt1": [
+                        "IMT business IMT business"
+                    ],
+                    "prompt2": [
+                        "Place Your Businesses Online Businesses"
+                    ]
+                }
+            ],
+            "Results_AC2": [
+                {
+                    "frame_label": "Part_whole",
+                    "relevant_elements": {
+                        "Part_prop": "moving",
+                        "Part": "parts"
+                    },
+                    "relevant_trigger_word": "parts",
+                    "prompt1": [
+                        "moving parts moving parts"
+                    ],
+                    "prompt2": [
+                        "Part_prop - Part_whole Part_prop Part_Whole"
+                    ]
+                }
+            ]
+        },
+        {
+            "AC1": "there's a lot of moving parts",
+            "AC2": "XYZ is an opinion about how sustainable the IMT margins are feeling - certainly through the second half of the year and then maybe beyond",
+            "Relation": "CA",
+            "AC1ID": "1028855",
+            "AC2ID": "1028859",
+            "RelationID": "1040981",
+            "Results_AC1": [
+                {
+                    "frame_label": "Part_whole",
+                    "relevant_elements": {
+                        "Part_prop": "moving",
+                        "Part": "parts"
+                    },
+                    "relevant_trigger_word": "parts",
+                    "prompt1": [
+                        "moving parts moving parts"
+                    ],
+                    "prompt2": [
+                        "Part_prop - Part_whole Part_prop Part_Whole"
+                    ]
+                }
+            ],
+            "Results_AC2": [
+                {
+                    "frame_label": "Opinion",
+                    "relevant_elements": {
+                        "Opinion": "XYZ",
+                        "Topic": "about how sustainable the IMT margins are feeling"
+                    },
+                    "relevant_trigger_word": "opinion",
+                    "prompt1": [
+                        "XYZ - Investors' opinion is mixed about how sustainable the IMT margins are feeling"
+                    ],
+                    "prompt2": [
+                        "Opinion / Opinion / Topic"
+                    ]
+                }
+            ]
+        },
+        {
+            "AC1": "Zillow are still very early in their journey",
+            "AC2": "Zillow see opportunities to invest into growth",
+            "Relation": "RA",
+            "AC1ID": "1028897",
+            "AC2ID": "1028901",
+            "RelationID": "1040993",
+            "Results_AC1": [
+                {
+                    "frame_label": "Continued_state_of_affairs",
+                    "relevant_elements": {
+                        "State_of_affairs": "very early in their journey",
+                        "Reference_occasion": "still"
+                    },
+                    "relevant_trigger_word": "still",
+                    "prompt1": [
+                        "still very early in their journey still very earlyin their journey"
+                    ],
+                    "prompt2": [
+                        "Continued_state_of_affairs Previous Continued_state-of-affairs Next State_of-Affairs"
+                    ]
+                }
+            ],
+            "Results_AC2": [
+                {
+                    "frame_label": "Opportunity",
+                    "relevant_elements": {
+                        "Opportunity": "opportunities",
+                        "Desirable_situation": "to invest into growth"
+                    },
+                    "relevant_trigger_word": "opportunities",
+                    "prompt1": [
+                        "opportunities and opportunities for investors to invest into growth"
+                    ],
+                    "prompt2": [
+                        "Opportunity - Opportunity - Desirable_situation"
+                    ]
+                }
+            ]
+        },
+        {
+            "AC1": "Zillow's Q3 outlook implies 37% EBITDA margins at the midpoint, which is down 875 basis points sequentially",
+            "AC2": "Zillow participate only in a small percentage of transactions relative to their audience and the industry",
+            "Relation": "RA",
+            "AC1ID": "1028893",
+            "AC2ID": "1028889",
+            "RelationID": "1041000",
+            "Results_AC1": [
+                {
+                    "frame_label": "Evidence",
+                    "relevant_elements": {
+                        "Support": "Zillow's Q3 outlook",
+                        "Proposition": "37% EBITDA margins at the midpoint, which is down 875 basis points sequentially"
+                    },
+                    "relevant_trigger_word": "implies",
+                    "prompt1": [
+                        "Zillow's Q3 outlook of $1 billion in revenue implies a 37% EBITDA margins at the midpoint, which is down 875 basis points sequentially"
+                    ],
+                    "prompt2": [
+                        "Support for Evidence Based Proposition"
+                    ]
+                }
+            ],
+            "Results_AC2": [
+                {
+                    "frame_label": "Participation",
+                    "relevant_elements": {
+                        "Participants": "Zillow",
+                        "Event": "in a small percentage of transactions relative to their audience and the industry"
+                    },
+                    "relevant_trigger_word": "participate",
+                    "prompt1": [
+                        "Zillow says they participate only in a small percentage of transactions relative to their audience and the industry"
+                    ],
+                    "prompt2": [
+                        "Participants in Participation in Event"
+                    ]
+                }
+            ]
+        },
+        {
+            "AC1": "the 37% margins are still up significantly over 2019 full year levels, which are 23.8%, and up from Zillow's three- to five-year objectives at 30%",
+            "AC2": "while we're increasing our investment levels in the second half of '21, we continue to generate leverage across the segment",
+            "Relation": "RA",
+            "AC1ID": "1028912",
+            "AC2ID": "1028925",
+            "RelationID": "1041007",
+            "Results_AC1": [
+                {
+                    "frame_label": "Continued_state_of_affairs",
+                    "relevant_elements": {
+                        "State_of_affairs": "up significantly over 2019 full year levels, which are 23.8%, and up from Zillow's three- to five-year objectives at 30%",
+                        "Reference_occasion": "still"
+                    },
+                    "relevant_trigger_word": "still",
+                    "prompt1": [
+                        "still up significantly over 2019 full year levels, which are 23.8%, and up from Zillow's three- to five-year objectives at 30%.still down significantly over, but still up from"
+                    ],
+                    "prompt2": [
+                        "Continued_state_of_affairs Previous Continued_state-of-affairs Next State_of-Affairs"
+                    ]
+                }
+            ],
+            "Results_AC2": [
+                {
+                    "frame_label": "Creating",
+                    "relevant_elements": {
+                        "Creator": "we",
+                        "Created_entity": "leverage across the segment"
+                    },
+                    "relevant_trigger_word": "generate",
+                    "prompt1": [
+                        "we expect to generate positive leverage across the segment"
+                    ],
+                    "prompt2": [
+                        "Creator of Creating Entity: Created_entity"
+                    ]
+                }
+            ]
+        },
+        {
+            "AC1": "Zillow have made progress even during the pandemic",
+            "AC2": "while we're increasing our investment levels in the second half of '21, we continue to generate leverage across the segment",
+            "Relation": "RA",
+            "AC1ID": "1028929",
+            "AC2ID": "1028925",
+            "RelationID": "1041010",
+            "Results_AC1": [
+                {
+                    "frame_label": "Calendric_unit",
+                    "relevant_elements": {
+                        "Unit": "pandemic"
+                    },
+                    "relevant_trigger_word": "pandemic",
+                    "prompt1": [
+                        "pandemic and pandemic"
+                    ],
+                    "prompt2": [
+                        "Calendric_unit Calendric-unitCalendarCalendarcalendarcalendricCalendar_unitcalendar-calendar calendarcalendercalendar_calendar CalendarcaltercalterCalendaraltercalcercalter Calendar_Calendar-CalterCalter_CalcerCalter-CalcercalcerCalcer_CalperCalcer-Calpercalcer CalterCalceralterCalcalceralcerCalcalteralcercerCalcleralcercalclercalclerCalcler_Calcler-CalclercalcerClercalcerclerCalclerclerclercalclerclercalclercclerclerclerclclerclercclerclicerclerclercclerclericclercclerclerculerclerclerclercclerclerclerglerclergerclergersclerglersclergelclogersclogerclogsclogclog"
+                    ]
+                }
+            ],
+            "Results_AC2": [
+                {
+                    "frame_label": "Creating",
+                    "relevant_elements": {
+                        "Creator": "we",
+                        "Created_entity": "leverage across the segment"
+                    },
+                    "relevant_trigger_word": "generate",
+                    "prompt1": [
+                        "we expect to generate positive leverage across the segment"
+                    ],
+                    "prompt2": [
+                        "Creator of Creating Entity: Created_entity"
+                    ]
+                }
+            ]
+        },
+        {
+            "AC1": "consumer is going to demand an e-commerce solution for the industry and Zillow are well positioned to serve that",
+            "AC2": "Zillow expect these investments deliver strong ROI via gross profit growth, and they believe it's prudent, given their focus on the customer and driving transactions, to make these investments",
+            "Relation": "RA",
+            "AC1ID": "1028947",
+            "AC2ID": "1028951",
+            "RelationID": "1041023",
+            "Results_AC1": [
+                {
+                    "frame_label": "Fields",
+                    "relevant_elements": {},
+                    "relevant_trigger_word": "industry",
+                    "prompt1": [
+                        "industry"
+                    ],
+                    "prompt2": [
+                        "Fields"
+                    ]
+                }
+            ],
+            "Results_AC2": [
+                {
+                    "frame_label": "Certainty",
+                    "relevant_elements": {
+                        "Cognizer": "they",
+                        "Content": "it's prudent",
+                        "Concessive": "given their focus on the customer and driving transactions"
+                    },
+                    "relevant_trigger_word": "believe",
+                    "prompt1": [
+                        "they do not believe that it's prudent to do so given their focus on the customer and driving transactions"
+                    ],
+                    "prompt2": [
+                        "Cognizer Finds Certainty of Content Is Concessive"
+                    ]
+                }
+            ]
+        },
+        {
+            "AC1": "Zillow's Q1 performance was good",
+            "AC2": "Zillow made a decision that they needed to increase their acquisition pace",
+            "Relation": "RA",
+            "AC1ID": "1042434",
+            "AC2ID": "1042439",
+            "RelationID": "1042445",
+            "Results_AC1": [
+                {
+                    "frame_label": "Desirability",
+                    "relevant_elements": {
+                        "Evaluee": "Zillow's Q1 performance"
+                    },
+                    "relevant_trigger_word": "good",
+                    "prompt1": [
+                        "Zillow's Q1 performance wasn't so good"
+                    ],
+                    "prompt2": [
+                        "Evaluee and Desirability"
+                    ]
+                }
+            ],
+            "Results_AC2": [
+                {
+                    "frame_label": "Cause_change_of_position_on_a_scale",
+                    "relevant_elements": {
+                        "Agent": "they",
+                        "Attribute": "their acquisition pace"
+                    },
+                    "relevant_trigger_word": "increase",
+                    "prompt1": [
+                        "they plan to increase their acquisition pace"
+                    ],
+                    "prompt2": [
+                        "Agent = Cause_change_of_position_on_a_scale = Attribute"
+                    ]
+                }
+            ]
+        },
+        {
+            "AC1": "the assets are valuable, the market's still strong",
+            "AC2": "Zillow ended up with that volatility agreeing to prices that are going to be higher than what we expect to sell those houses for less selling costs",
+            "Relation": "RA",
+            "AC1ID": "1042478",
+            "AC2ID": "1042472",
+            "RelationID": "1042484",
+            "Results_AC1": [
+                {
+                    "frame_label": "Continued_state_of_affairs",
+                    "relevant_elements": {
+                        "State_of_affairs": "strong"
+                    },
+                    "relevant_trigger_word": "still",
+                    "prompt1": [
+                        "still going strong"
+                    ],
+                    "prompt2": [
+                        "Continued_state_of_affairs Related: State_of-affairs"
+                    ]
+                }
+            ],
+            "Results_AC2": [
+                {
+                    "frame_label": "Buildings",
+                    "relevant_elements": {
+                        "Building": "houses"
+                    },
+                    "relevant_trigger_word": "houses",
+                    "prompt1": [
+                        "houses and houses"
+                    ],
+                    "prompt2": [
+                        "Buildings Related Buildings"
+                    ]
+                }
+            ]
+        },
+        {
+            "AC1": "the assets are valuable, the market's still strong",
+            "AC2": "The volatility was higher, maybe another way of saying it",
+            "Relation": "CA",
+            "AC1ID": "1042478",
+            "AC2ID": "1038084",
+            "RelationID": "1042488",
+            "Results_AC1": [
+                {
+                    "frame_label": "Continued_state_of_affairs",
+                    "relevant_elements": {
+                        "State_of_affairs": "strong"
+                    },
+                    "relevant_trigger_word": "still",
+                    "prompt1": [
+                        "still going strong"
+                    ],
+                    "prompt2": [
+                        "Continued_state_of_affairs Related: State_of-affairs"
+                    ]
+                }
+            ],
+            "Results_AC2": [
+                {
+                    "frame_label": "Likelihood",
+                    "relevant_elements": {
+                        "Hypothetical_event": "Another way of saying it"
+                    },
+                    "relevant_trigger_word": "maybe",
+                    "prompt1": [
+                        "maybe it\u2019s just me? Another way of saying it"
+                    ],
+                    "prompt2": [
+                        "Likelihood of Hypothetical_event"
+                    ]
+                }
+            ]
+        },
+        {
+            "AC1": "Zillow made a commentary about testing the price elasticity and,  Ryan sees the conversion on the improved offer strength, you know",
+            "AC2": "it should be a better fee to the customer",
+            "Relation": "RA",
+            "AC1ID": "1035182",
+            "AC2ID": "1035187",
+            "RelationID": "1041568",
+            "Results_AC1": [
+                {
+                    "frame_label": "Awareness",
+                    "relevant_elements": {
+                        "Content": "Ryan sees the conversion on the improved offer strength",
+                        "Cognizer": "you"
+                    },
+                    "relevant_trigger_word": "know",
+                    "prompt1": [
+                        "Ryan sees the conversion on the improved offer strength as a positive.What you need to know"
+                    ],
+                    "prompt2": [
+                        "Content and Cognizer Awareness"
+                    ]
+                }
+            ],
+            "Results_AC2": [
+                {
+                    "frame_label": "Desirability",
+                    "relevant_elements": {
+                        "Evaluee": "fee"
+                    },
+                    "relevant_trigger_word": "better",
+                    "prompt1": [
+                        "better service fee"
+                    ],
+                    "prompt2": [
+                        "Desirability and Evaluee"
+                    ]
+                }
+            ]
+        },
+        {
+            "AC1": "goo consumer fee is what investors are somewhat grappling with on the margin profile of iBuying",
+            "AC2": "the consumer fee will/will not be relative to the competitive set of traditional commission rates",
+            "Relation": "RA",
+            "AC1ID": "1035212",
+            "AC2ID": "1035202",
+            "RelationID": "1041595",
+            "Results_AC1": [],
+            "Results_AC2": [
+                {
+                    "frame_label": "Competition",
+                    "relevant_elements": {
+                        "Competition": "set of traditional commission rates"
+                    },
+                    "relevant_trigger_word": "competitive",
+                    "prompt1": [
+                        "competitive with a set of traditional commission rates"
+                    ],
+                    "prompt2": [
+                        "Competition and Competition"
+                    ]
+                }
+            ]
+        },
+        {
+            "AC1": "consumer fee is ultimately, where the margin shakes out in a more normalized environment",
+            "AC2": "goo consumer fee is what investors are somewhat grappling with on the margin profile of iBuying",
+            "Relation": "RA",
+            "AC1ID": "1035220",
+            "AC2ID": "1035212",
+            "RelationID": "1041604",
+            "Results_AC1": [
+                {
+                    "frame_label": "Political_locales",
+                    "relevant_elements": {
+                        "Descriptor": "normalized",
+                        "Locale": "environment"
+                    },
+                    "relevant_trigger_word": "environment",
+                    "prompt1": [
+                        "normalized environment normalized environment"
+                    ],
+                    "prompt2": [
+                        "Descriptor of Political_locales EditPolitical_localeDescriptorsPolitical_Locale Political_Locales"
+                    ]
+                }
+            ],
+            "Results_AC2": []
+        },
+        {
+            "AC1": "there is a low penetration numbers of iBuying right now, and the opportunity to scale",
+            "AC2": "the guardrails that we\u2019ve set are the plus or minus 200 basis points",
+            "Relation": "RA",
+            "AC1ID": "1035254",
+            "AC2ID": "1035260",
+            "RelationID": "1041651",
+            "Results_AC1": [
+                {
+                    "frame_label": "Position_on_a_scale",
+                    "relevant_elements": {
+                        "Value": "low",
+                        "Item": "penetration numbers"
+                    },
+                    "relevant_trigger_word": "low",
+                    "prompt1": [
+                        "low penetration numbers low penetration numbers"
+                    ],
+                    "prompt2": [
+                        "Position_on_a_scale - Position_on-a_Scale - Item"
+                    ]
+                }
+            ],
+            "Results_AC2": [
+                {
+                    "frame_label": "Placing",
+                    "relevant_elements": {
+                        "Theme": "that",
+                        "Agent": "we"
+                    },
+                    "relevant_trigger_word": "set",
+                    "prompt1": [
+                        "that means we are set"
+                    ],
+                    "prompt2": [
+                        "Theme / Agent / Placing"
+                    ]
+                }
+            ]
+        },
+        {
+            "AC1": "Zillow look at what\u2019s the overall transaction cost to the customer to incent them and that we can still turn into a profitable business",
+            "AC2": "Zillow don\u2019t think about basis points in individual components of fee versus value, you know",
+            "Relation": "RA",
+            "AC1ID": "1035274",
+            "AC2ID": "1035268",
+            "RelationID": "1041667",
+            "Results_AC1": [
+                {
+                    "frame_label": "Businesses",
+                    "relevant_elements": {
+                        "Descriptor": "profitable",
+                        "Business": "business"
+                    },
+                    "relevant_trigger_word": "business",
+                    "prompt1": [
+                        "profitable small business small business"
+                    ],
+                    "prompt2": [
+                        "Descriptor of Businesses - Businesses"
+                    ]
+                }
+            ],
+            "Results_AC2": [
+                {
+                    "frame_label": "Awareness",
+                    "relevant_elements": {
+                        "Cognizer": "Zillow",
+                        "Topic": "about basis points in individual components of fee versus value"
+                    },
+                    "relevant_trigger_word": "think",
+                    "prompt1": [
+                        "Zillow CEO: I think we're talking about basis points in individual components of fee versus value"
+                    ],
+                    "prompt2": [
+                        "Cognizer - Awareness & Topic"
+                    ]
+                }
+            ]
+        },
+        {
+            "AC1": "Zillow don\u2019t think about basis points in individual components of fee versus value, you know",
+            "AC2": "the fee is likely to continue to vacillate and change as we test pricing and elasticity",
+            "Relation": "RA",
+            "AC1ID": "1035268",
+            "AC2ID": "1035282",
+            "RelationID": "1041676",
+            "Results_AC1": [
+                {
+                    "frame_label": "Awareness",
+                    "relevant_elements": {
+                        "Cognizer": "Zillow",
+                        "Topic": "about basis points in individual components of fee versus value"
+                    },
+                    "relevant_trigger_word": "think",
+                    "prompt1": [
+                        "Zillow CEO: I think we're talking about basis points in individual components of fee versus value"
+                    ],
+                    "prompt2": [
+                        "Cognizer - Awareness & Topic"
+                    ]
+                }
+            ],
+            "Results_AC2": [
+                {
+                    "frame_label": "Likelihood",
+                    "relevant_elements": {
+                        "Hypothetical_event": "to continue to vacillate and change as we test pricing and elasticity"
+                    },
+                    "relevant_trigger_word": "likely",
+                    "prompt1": [
+                        "likely to continue to vacillate and change as we test pricing and elasticity"
+                    ],
+                    "prompt2": [
+                        "Likelihood of Hypothetical_event"
+                    ]
+                }
+            ]
+        },
+        {
+            "AC1": "the fee is likely to continue to vacillate and change as we test pricing and elasticity",
+            "AC2": "Zillow have focused on is trying to get the most accurate pricing",
+            "Relation": "RA",
+            "AC1ID": "1035282",
+            "AC2ID": "1035293",
+            "RelationID": "1041688",
+            "Results_AC1": [
+                {
+                    "frame_label": "Likelihood",
+                    "relevant_elements": {
+                        "Hypothetical_event": "to continue to vacillate and change as we test pricing and elasticity"
+                    },
+                    "relevant_trigger_word": "likely",
+                    "prompt1": [
+                        "likely to continue to vacillate and change as we test pricing and elasticity"
+                    ],
+                    "prompt2": [
+                        "Likelihood of Hypothetical_event"
+                    ]
+                }
+            ],
+            "Results_AC2": [
+                {
+                    "frame_label": "Emphasizing",
+                    "relevant_elements": {
+                        "Agent": "Zillow",
+                        "Consideration": "on"
+                    },
+                    "relevant_trigger_word": "focused",
+                    "prompt1": [
+                        "Zillow is focused on"
+                    ],
+                    "prompt2": [
+                        "Agent 4: Emphasizing Critical Consideration"
+                    ]
+                }
+            ]
+        },
+        {
+            "AC1": "Zillow want to be fair to the customer and to continue to reduce our cost structure with the benefits of scale automation and productivity",
+            "AC2": "Zillow have focused on is trying to get the most accurate pricing",
+            "Relation": "RA",
+            "AC1ID": "1035301",
+            "AC2ID": "1035293",
+            "RelationID": "1041697",
+            "Results_AC1": [
+                {
+                    "frame_label": "Cause_change_of_position_on_a_scale",
+                    "relevant_elements": {
+                        "Agent": "Zillow",
+                        "Attribute": "our cost structure"
+                    },
+                    "relevant_trigger_word": "reduce",
+                    "prompt1": [
+                        "Zillow working to reduce and simplify our cost structure"
+                    ],
+                    "prompt2": [
+                        "Agent = Cause_change_of_position_on_a_scale = Attribute"
+                    ]
+                }
+            ],
+            "Results_AC2": [
+                {
+                    "frame_label": "Emphasizing",
+                    "relevant_elements": {
+                        "Agent": "Zillow",
+                        "Consideration": "on"
+                    },
+                    "relevant_trigger_word": "focused",
+                    "prompt1": [
+                        "Zillow is focused on"
+                    ],
+                    "prompt2": [
+                        "Agent 4: Emphasizing Critical Consideration"
+                    ]
+                }
+            ]
+        },
+        {
+            "AC1": "XYZ elaborates on kind of the consumer fee piece of things",
+            "AC2": "Zillow still believe on a standalone basis the 400 to 500 basis points at scale is likely a number that they would see as a market maker but it\u2019ll come in a lot of different forms",
+            "Relation": "RA",
+            "AC1ID": "1035228",
+            "AC2ID": "1035309",
+            "RelationID": "1041706",
+            "Results_AC1": [
+                {
+                    "frame_label": "Part_piece",
+                    "relevant_elements": {
+                        "Substance": "of things",
+                        "Piece": "piece"
+                    },
+                    "relevant_trigger_word": "piece",
+                    "prompt1": [
+                        "piece of piece of pieces of things"
+                    ],
+                    "prompt2": [
+                        "Part_piece of Part_piece by Substance"
+                    ]
+                }
+            ],
+            "Results_AC2": [
+                {
+                    "frame_label": "Likelihood",
+                    "relevant_elements": {
+                        "Hypothetical_event": "a number that they would see as a market maker"
+                    },
+                    "relevant_trigger_word": "likely",
+                    "prompt1": [
+                        "likely to be a number that they would see as a market maker"
+                    ],
+                    "prompt2": [
+                        "Likelihood of Hypothetical_event"
+                    ]
+                }
+            ]
+        },
+        {
+            "AC1": "Zillow have their customers come through various funnels on Zillow",
+            "AC2": "Zillow's clients' ability or their willingness, as Zillow introduce multiple services to them, to take those multiple services allows them to provide even sharper pricing across those service",
+            "Relation": "RA",
+            "AC1ID": "1035317",
+            "AC2ID": "1035323",
+            "RelationID": "1041734",
+            "Results_AC1": [],
+            "Results_AC2": [
+                {
+                    "frame_label": "Public_services",
+                    "relevant_elements": {
+                        "Institution": "services"
+                    },
+                    "relevant_trigger_word": "services",
+                    "prompt1": [
+                        "services and services"
+                    ],
+                    "prompt2": [
+                        "Public_services By Public_services"
+                    ]
+                }
+            ]
+        },
+        {
+            "AC1": "Zillow are not having to go out and use CAC to acquire each customer for each service",
+            "AC2": "Zillow's clients' ability or their willingness, as Zillow introduce multiple services to them, to take those multiple services allows them to provide even sharper pricing across those service",
+            "Relation": "RA",
+            "AC1ID": "1035342",
+            "AC2ID": "1035323",
+            "RelationID": "1041751",
+            "Results_AC1": [
+                {
+                    "frame_label": "Using",
+                    "relevant_elements": {
+                        "Agent": "Zillow",
+                        "Instrument": "CAC",
+                        "Purpose": "to acquire each customer for each service"
+                    },
+                    "relevant_trigger_word": "use",
+                    "prompt1": [
+                        "Zillow plans to use a CAC algorithm to acquire each customer for each service"
+                    ],
+                    "prompt2": [
+                        "Agent Arrested for Using Firearm Instrument for Purpose"
+                    ]
+                }
+            ],
+            "Results_AC2": [
+                {
+                    "frame_label": "Public_services",
+                    "relevant_elements": {
+                        "Institution": "services"
+                    },
+                    "relevant_trigger_word": "services",
+                    "prompt1": [
+                        "services and services"
+                    ],
+                    "prompt2": [
+                        "Public_services By Public_services"
+                    ]
+                }
+            ]
+        },
+        {
+            "AC1": "doing that, offering a fair price, it\u2019s a terrific consumer proposition and a great business for Zillow",
+            "AC2": "ultimately what Zillow trying to do is get people an amount of dollars in their pocket that they would have gotten approximately what they would have gotten via any other way that they would have sold, that\u2019s the goal",
+            "Relation": "RA",
+            "AC1ID": "1035366",
+            "AC2ID": "1035361",
+            "RelationID": "1041778",
+            "Results_AC1": [
+                {
+                    "frame_label": "Commerce_scenario",
+                    "relevant_elements": {
+                        "Money": "fair"
+                    },
+                    "relevant_trigger_word": "price,",
+                    "prompt1": [
+                        "fair market price,"
+                    ],
+                    "prompt2": [
+                        "Money & Commerce_scenario"
+                    ]
+                }
+            ],
+            "Results_AC2": [
+                {
+                    "frame_label": "Commerce_sell",
+                    "relevant_elements": {
+                        "Goods": "that",
+                        "Seller": "they"
+                    },
+                    "relevant_trigger_word": "sold,",
+                    "prompt1": [
+                        "that if they were sold,"
+                    ],
+                    "prompt2": [
+                        "Goods by Seller / Commerce_sell"
+                    ]
+                }
+            ]
+        },
+        {
+            "AC1": "the selling cost as a percent of revenue - I think this is the third quarter in a row, maybe longer, that that\u2019s been 3.8% of revenue",
+            "AC2": "of the assumptions has been that using in-house agents on the iBuyer transactions would over time move that selling cost lower, actually, more leverage in the model on that",
+            "Relation": "RA",
+            "AC1ID": "1035385",
+            "AC2ID": "1035390",
+            "RelationID": "1041813",
+            "Results_AC1": [
+                {
+                    "frame_label": "Ordinal_numbers",
+                    "relevant_elements": {
+                        "Type": "quarter",
+                        "Comparison_set": "in a row"
+                    },
+                    "relevant_trigger_word": "third",
+                    "prompt1": [
+                        "third negative quarter in a row"
+                    ],
+                    "prompt2": [
+                        "Ordinal_numbers | Type | Comparison_set"
+                    ]
+                }
+            ],
+            "Results_AC2": [
+                {
+                    "frame_label": "Using",
+                    "relevant_elements": {
+                        "Instrument": "in-house agents",
+                        "Purpose": "on the iBuyer transactions"
+                    },
+                    "relevant_trigger_word": "using",
+                    "prompt1": [
+                        "using their own in-house agents to work on the iBuyer transactions"
+                    ],
+                    "prompt2": [
+                        "Using an Instrument for Purpose"
+                    ]
+                }
+            ]
+        },
+        {
+            "AC1": "Zillow are still very early in the number of markets that we have Zillow brokerage services in",
+            "AC2": "Zillow are focused on scaling the business as well as Zillow brokerage services, but it\u2019s still relatively early, as they roll that out",
+            "Relation": "RA",
+            "AC1ID": "1035419",
+            "AC2ID": "1035424",
+            "RelationID": "1041842",
+            "Results_AC1": [
+                {
+                    "frame_label": "Public_services",
+                    "relevant_elements": {
+                        "Domain": "brokerage",
+                        "Institution": "services"
+                    },
+                    "relevant_trigger_word": "services",
+                    "prompt1": [
+                        "brokerage services brokerage services"
+                    ],
+                    "prompt2": [
+                        "Domain name: Public_services type: public_services"
+                    ]
+                }
+            ],
+            "Results_AC2": [
+                {
+                    "frame_label": "Businesses",
+                    "relevant_elements": {
+                        "Business": "business"
+                    },
+                    "relevant_trigger_word": "business",
+                    "prompt1": [
+                        "business and business"
+                    ],
+                    "prompt2": [
+                        "Businesses and Businesses"
+                    ]
+                }
+            ]
+        },
+        {
+            "AC1": "Zillow are constantly experimenting on a market-by-market basis with the buy box and what works and what doesn't",
+            "AC2": "we have lots of data streaming in not as much as I would like, Rich would like it to be even bigger",
+            "Relation": "RA",
+            "AC1ID": "1021050",
+            "AC2ID": "1021055",
+            "RelationID": "1039627",
+            "Results_AC1": [
+                {
+                    "frame_label": "Usefulness",
+                    "relevant_elements": {
+                        "Entity": "what"
+                    },
+                    "relevant_trigger_word": "works",
+                    "prompt1": [
+                        "what really works"
+                    ],
+                    "prompt2": [
+                        "Entity Name Usefulness"
+                    ]
+                }
+            ],
+            "Results_AC2": [
+                {
+                    "frame_label": "Size",
+                    "relevant_elements": {
+                        "Entity": "it",
+                        "Degree": "even"
+                    },
+                    "relevant_trigger_word": "bigger",
+                    "prompt1": [
+                        "it gets even bigger"
+                    ],
+                    "prompt2": [
+                        "Entity Type Degree of Size"
+                    ]
+                }
+            ]
+        },
+        {
+            "AC1": "if you step back and look at the overall number of transactions Zillow have conducted in data streaming, it's still relatively low",
+            "AC2": "Zillow want to get that up, keep the learning machine going and get the buy box as broad as they possibly can and as many markets as they possibly can",
+            "Relation": "RA",
+            "AC1ID": "1021066",
+            "AC2ID": "1021071",
+            "RelationID": "1039647",
+            "Results_AC1": [
+                {
+                    "frame_label": "Perception_active",
+                    "relevant_elements": {
+                        "Perceiver_agentive": "you",
+                        "Phenomenon": "at the overall number of transactions Zillow have conducted in data streaming"
+                    },
+                    "relevant_trigger_word": "look",
+                    "prompt1": [
+                        "you can take a look at the overall number of transactions Zillow have conducted in data streaming"
+                    ],
+                    "prompt2": [
+                        "Perceiver_agentive Perception Perception_active Perception Perception Phenomenon"
+                    ]
+                }
+            ],
+            "Results_AC2": [
+                {
+                    "frame_label": "Capability",
+                    "relevant_elements": {
+                        "Event": "possibly",
+                        "Entity": "they"
+                    },
+                    "relevant_trigger_word": "can",
+                    "prompt1": [
+                        "they can't possibly be can"
+                    ],
+                    "prompt2": [
+                        "Entity and Event Management Capability"
+                    ]
+                }
+            ]
+        }
+    ]
+}

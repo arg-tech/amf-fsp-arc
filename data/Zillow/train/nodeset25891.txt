@@ -1,0 +1,182 @@
+Ron Josey
+
+Great, thanks for taking the question guys.
+
+I wanted to ask - clearly so much is going
+on. I wanted to maybe zero in on Zillow Offers here first. I mean, significant
+demand in the quarter sales pulled forward, Allen you talked about that,
+Zestimate driving even more demand you know, maybe with supply seems being a
+little bit harder here and you're sharpening pricing to offset that. Rich, can
+you just talk about the broader market for offers in a stronger real estate
+market? Just how do you acquire the inventory relative demand? How do you
+balance those two things together? Thank you.
+
+ 
+
+Rich Barton
+
+ 
+
+Hey, Ron, thanks. I mean, we are rapidly
+learning how ZO lives in this, really this unprecedented home price
+appreciation environment. The appreciation over the last six months is the
+largest move up or down that we observe in the data set over the last 35 years,
+right. So it's a very fluid market. But as you noted in your question and Allen
+talked about in his script, our top of funnel indicators are good. Like, you
+know, it turns out, speed, certainty and convenience are attractive to sellers
+no matter what kind of market they are in. So we are seeing record levels of
+folks raising their hand to get a Zillow offer. I think part of that is driven
+by this really nifty feature we launched last quarter that we internally called
+Zestimate offers which is this, live initial -- having the Zestimate via a live
+initial offer for lots of the homes inside of the buy box in Zillow Offers
+markets.
+
+ 
+
+So anyway, we're also really happy with
+this kind of glow that we're seeing across the business from this positive
+reinforcement we have from having all of these linked businesses and having
+this very large, single funnel of customer demand coming in. And the IMT and
+adjacent business numbers are really, really commendable. But on ZO in
+particular Ron, we're leaning in like -- we're leaning in, we're expanding in
+the 25 markets, we're heavily staffing as I think we made an announcement maybe
+Allen just talked about it too. We are we are planning as a company hiring a
+net 2000 people in 2021, and a lot of that will be for Zillow Offers and we're
+making other investments in ZO as well. So we are comfortable with that
+increased investment because of what we're seeing top of funnel because what we
+know about the consumer value proposition.
+
+ 
+
+And also, we're leaning in because most consumers
+don't even know what Zillow Offers is yet. They don't even know, we've got to
+take Zillow 2.0 out of the kind of quarterly conference call realm and into the
+consumer awareness realm. And so we got a lot of work to do there and basis
+points penetrated in the business overall. So long answer, but we're feeling
+we're leaning in and feeling good.
+
+ 
+
+Allen Parker
+
+ 
+
+Hey, Ron and Rich, I will just add. Just to
+give a little color to the guidance for Q2 with respect to home segment
+revenue. We've called out the resale velocity pulling some sales in the Q1. And
+I just want to call it even with strong top of funnel activity, there is a lag
+as we go through between offer, purchase and an eventual sale and when we see
+the revenue and so a lot of this top of funnel activity will start to show up
+more in Q3 and that's part of the reason for the Q2 guide that's reflected --
+that lag is reflected in the Q2 guide.
+
+ 
+
+Ron Josey
+
+Super helpful. Thank you guys.
+1. 
+Naved Khan
+
+Thanks a lot.
+
+There is couple of questions. So maybe just
+on Zillow 2.0, how do we measure the progress that you're making on the
+initiative and how do you think about the long-term profitability potential in
+the 2.0. And then, just maybe on hiring? What are the areas that are seeing the
+biggest increase in headcount?
+
+ 
+
+Rich Barton
+
+ 
+
+Okay. Hey, Naved. So you know, the 2.0 bet
+is all about the fact that we believe customers want speed, simplicity,
+integration, value, like these are not risky bets to make on consumer behavior,
+okay; they're kind of timeless features of what customers demand. And we also
+believe that our brand and our traffic give us a competitive advantage,
+relative to point solution competitors, because we have a large audience, we
+can spread any customer acquisition costs we may have for those customers over
+a much larger revenue, profit and transaction base. So that's kind of business
+school answer to why we like the competitive advantage. So that's why we've
+made the bet.
+
+ 
+
+So we've made these big bets over the last
+two and a half years when we really leaned into 2.0. And building out all the
+2.0 components, like Zillow Offers, mortgages, Zillow closing services, even
+rentals. Anyway, the short answer to your question is, it's working. You know,
+all the children appear to be above average. I don't know if we're getting any
+chuckles out there to the Garrison Keillor reference, but all the businesses
+are performing really well beyond our expectations. So that's a terrific proof
+point that the integrated strategy and the transaction strategy is working our
+revenue and profit on a per user basis and steadily rising, which is really
+nice to see and it's still quite low. So we have a ways to go. I said in my
+script, to kind of introduce a new kind of TAM and penetration concept, this
+less than 2% gross profit penetration into the total addressable market of
+services in the industry, you know we keep struggling for ways to talk about
+the full opportunity in quarters past we talked about trying to estimate
+transaction share, and what share of transactions we touched, that is fraught,
+because we don't exactly know how many transactions we touched, or we're -- I
+challenged the team to try to figure out if there's maybe a gross profit
+penetration metric we can come out to communicate the opportunity for ourselves
+and for you all. So that, you know, that could be interesting. Anyway, there's
+still a ton of work to do on 2.0 not the least of which as I said before, is
+awareness of 2.0. That's where you're seeing marketing investment, increased
+marketing investment from us. Anyway, stay tuned, we're on the path, we like
+the path, things look clear and lots of green lights out the front windshield.
+
+ 
+
+2. 
+Naved Khan
+
+ 
+
+Thank you, Rich. And maybe on the headcount
+and give us some more clarity on the areas where these are [indiscernible].
+
+ 
+
+Rich Barton
+
+ 
+
+Maybe Allen, if you want to answer that?
+
+ 
+
+Allen Parker
+
+ 
+
+Yes. I mean, I guess what I would just say
+is, I would classify, we're continuing to make investments across a variety of
+our businesses where we feel like there's a lot of opportunity to accelerate
+innovation for our customer, shop and dream, buy with, sell with. And so
+there's quite a bit of tech and dev, but there's also transactional type
+resources that are necessary as we scale the business. And so I think you're
+seeing kind of a mix of those, there are some additional innovative ideas
+around 3D tours and other things.
+
+ 
+
+So, most of the initiatives we talk about,
+we are looking at where we need the resource and to accelerate our investment.
+But it's spread across the company, and, you know, I'll just take this moment
+to say we continue to prioritize, you know, our existing resources as well, to
+make sure we're making bets on the right [feedbacks]. But we like the results
+we're seeing, we like the inputs that we're tracking and look forward to
+execution.
+
+ 
+
+Operator
+
+ 
+
+Our next question comes from Lloyd Walmsley
+with Deutsche Bank.

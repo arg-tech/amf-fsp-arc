@@ -1,0 +1,28 @@
+Operator
+
+Our last question today comes from Andrew Boone with JMP Securities.
+
+Andrew Boone
+
+Hi, guys. Thanks for taking the question. Two, please. So the first, just on Zillow Offers. It felt like it was a key on-ramp for Zillow 360. Can you talk about your vision for Zillow 360 through just PA?
+
+And then for number two, Rich. iBuying, to some, felt like a defensive move initially. To that end, where do iBuying fit into your vision of real estate more broadly? And is this now something that's just too narrow for an over base, or is it - simply put, as you mentioned multiple times - just not the best use of Zillow's capital? So, kind of: where is the end state of iBuying? Thanks guys.
+
+Rich Barton
+
+Hi, Andrew, it's early days for Zillow 360. Excuse me, I just swallowed my cough drop. [I got it, I'm back]. Yeah, it's early days for Zillow 360. We have been doing a lot of testing of it. Zillow Offers has been a part of it for some, but just a part. And we actually think being able to slot many different choices for unlocking sellers as a part of Zillow 360 is a good opportunity, you know? Most interestingly, we're assembling all these other components, all these other ingredients that we've built, to make this integrated experience better. But it is -- it's early days, so talking about it more than that would be, I think -- is premature.
+
+Anything to add on that, Allen?
+
+Allen Parker
+
+Well, no, I'd just say that it was always broader than just iBuying being the only source. ZHL and PA are example and Closing Services are an example of services that we can bundle together. It was really a concept of bundling together more than one service, and we were not always -- didn't always have to be iBuying. So it's still a concept that I think -- we've seen improved conversion when we've been able to offer customers integrated services in a package and leverage the lower CAC.
+
+Rich Barton
+
+As for the back half of your question, Andrew, it's really hard to say. We can only kind of talk about this in the context of our calculus -- the amount of risk and equity and balance sheet we're willing to take, you know. We were -- we have been willing to take a really big swing on this but not a bet-the-company swing. There was a potential defensive motivation in going into it in the first place, but, you know, we feel after three and a half years of experience with it -- we feel really confident in our offensive position without having to be the primary ourselves. I guess that's how I would answer that, Andrew. Is that it, Brad?
+
+Brad Berning
+
+I think that was it. Operator, is that correct?
+

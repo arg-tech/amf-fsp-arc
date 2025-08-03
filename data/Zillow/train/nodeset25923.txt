@@ -1,0 +1,58 @@
+Operator
+
+Our next question comes from Ygal Arounian with Wedbush Securities.
+
+Ygal Arounian
+
+Hey guys. First question: understanding the difficulty in pricing and forecasting, the way you're talking about Zillow Offers is really different than how you've talked about it in the past, that it serves a narrow part of your customers. And what you've talked about in the past is really a central piece to the public offering, the central piece to Zillow 360, expecting it to drive partner leads, expecting it -- as Allen just mentioned, on purchase originations on the mortgage side.
+
+So, it does feel like there's a little bit of a hole here in the middle of the vision. Can you just -- I know you've talked about it, but maybe like why is there not a hole in the vision with the iBuyer business, now pulled out of it?
+
+And then the second question. Since -- now, I guess, where -- there will be a lot more focus on Premier Agent, and you've talked a lot about the high-performing agents and connecting them with high-converting customers. Can we get a little bit more color around that? You know, what's changed? What's changing? How that's benefiting and how that will continue to kind of benefit as we get into next year? Thanks.
+
+Rich Barton
+
+Okay. Hopefully, you took some notes, Allen.
+
+Allen Parker
+
+I did. Maybe you could just talk about the first question; it is, again, what's next, I think.
+
+Rich Barton
+
+Yes, yes. I mean, -- you know, we've talked about it a couple of times, but maybe I'll go into a little bit more subtle point, Ygal, that maybe is not as obvious. I tried to say it in my script, but being in a position where we are having to negotiate with sellers about their most important asset and - the most important thing they own in their lives, emotionally and financially - and being put in a position of being the primary to negotiate with them on that and to have 90% of them approximately go do something else, some of them pretty miffed about the brand, is not what we're used to. It's not what we're trying to be. It's not what the history of our brand has been.
+
+And so there is a -- a little bit of what's in here is how -- what has been emerging is that it's been a little bit too narrow of a solution, I would --. The ends aren't that big either, but that is a little bit of what's going on here.
+
+I also -- you've been looking for, for many quarters, us to draw, you know, straight hard, solid lines to seller leads from that interaction. And, you know, we've said we're making progress, we're trying things, we're improving. But, you know, it hasn't been a big business driver for us so far; it's someti... -- some of which because of the subtle interactions that I was -- that I was talking about. Having this be the only thing we're selling to sellers was -- has been the realization we've made - is that, that is limiting and that being able to have a larger, broader menu of things to offer our sellers is what we want to be able to focus on. We think we can serve a lot more people that way.
+
+And you don't need to look much further than a ton of kind of venture capital, you know, proptech investment that is going into the space trying to address this same kind of problem in a more -- in a more asset-light way. So we think there's a lot of potential here, but, you know, in ways that don't force us to put our whole balance sheet at risk. The second part of the...
+
+Allen Parker
+
+Yes, maybe I'll take the second part. So it was about, you know, how do we feel about, I guess, higher-performing agents and getting them higher-intent customers - what are the drivers there, I believe? Is that a fair representation of the question?
+
+Ygal Arounian
+
+Yes. And obviously, that -- it feels like that's a driver of PA and, you know --
+
+Allen Parker
+
+Yes, yes. And so I guess what I talked about is -- yes. You know, what we look at when we look at, you know, the opportunities in our Premier Agent business is high-intent customers and there are actions that customers take which are more sticky than others.
+
+For example, touring is a great example of as we invest and develop the touring technology, especially with ShowingTime now part of the Zillow Group. We believe that those actions to schedule a tour generate a higher-intent customer that we can connect with an agent in a much more friction-free basis with a higher, actual face time connection.
+
+And, 3D homes and floor plans allow our customers to, you know, engage in a variety of different homes and then pick the ones they want and so they're higher intent. Zillow 360 and a lot of these, you know, discussions we're having about what -- how do we drive an integrated transaction with ZHL and sellers or buyers who need financing when they're buyers or need to free up equity when they're sellers of an old home and want to buy.
+
+All of these things, as we think about, you know, moving forward in Zillow 2.0, are going to generate additional - as Rich mentioned - partner leads that are coming off of other channels or other areas of our funnel, than the current, you know, channel, which right now is HDP, you know -- submits that we have that then turn into connection.
+
+So we continue to get better about monetizing our current traffic and transactions, but we're also investing and developing, you know, tools and technologies that create higher-intent, slightly stickier actions that get our customers to agents in a way that are driving conversion up, and we get paid for that either in as part of a return on the ROI through MVP or through just number of transactions based on conversion rates with a flex transaction, if that helps. Would you add anything, Brad or Rich?
+
+Rich Barton
+
+That was great.
+
+Ygal Arounian
+
+It’s helpful. Appreciate the color. Thank you, guys.
+

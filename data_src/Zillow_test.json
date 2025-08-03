@@ -1,0 +1,2211 @@
+{
+    "argument_data": [
+        {
+            "AC1": "Flex will/will not be contributing there",
+            "AC2": "MVP will/will not be contributing there",
+            "Relation": "CA",
+            "AC1ID": "1043835",
+            "AC2ID": "1043830",
+            "RelationID": "1043837",
+            "Results_AC1": [
+                {
+                    "frame_label": "Giving",
+                    "relevant_elements": {
+                        "Donor": "Flex",
+                        "Place": "there"
+                    },
+                    "relevant_trigger_word": "contributing",
+                    "prompt1": [
+                        "Flex is contributing here and there"
+                    ],
+                    "prompt2": [
+                        "Donor Spotlight: Giving Your Place"
+                    ]
+                }
+            ],
+            "Results_AC2": [
+                {
+                    "frame_label": "Giving",
+                    "relevant_elements": {
+                        "Donor": "MVP",
+                        "Place": "there"
+                    },
+                    "relevant_trigger_word": "contributing",
+                    "prompt1": [
+                        "MVP is contributing here and there"
+                    ],
+                    "prompt2": [
+                        "Donor Spotlight: Giving Your Place"
+                    ]
+                }
+            ],
+            "predicted_relation": "RA"
+        },
+        {
+            "AC1": "Flex, in and of itself, is not a driver for transactions, but it is a driver for better alignment between Zillow's customers and their partners",
+            "AC2": "Zillow will continue to innovate and iterate on ways to align their partners with their products and services and their customers in ways to generate more transactions, higher conversion and more revenue per transaction",
+            "Relation": "CA",
+            "AC1ID": "1043881",
+            "AC2ID": "1043886",
+            "RelationID": "1043910",
+            "Results_AC1": [
+                {
+                    "frame_label": "Commercial_transaction",
+                    "relevant_elements": {},
+                    "relevant_trigger_word": "transactions,",
+                    "prompt1": [
+                        "transactions,"
+                    ],
+                    "prompt2": [
+                        "Commercial_transaction"
+                    ]
+                }
+            ],
+            "Results_AC2": [
+                {
+                    "frame_label": "Commercial_transaction",
+                    "relevant_elements": {},
+                    "relevant_trigger_word": "transactions,",
+                    "prompt1": [
+                        "transactions,"
+                    ],
+                    "prompt2": [
+                        "Commercial_transaction"
+                    ]
+                }
+            ],
+            "predicted_relation": "RA"
+        },
+        {
+            "AC1": "Allen wouldn't call one or the other out as the biggest driver of the journey to the 2025 targets",
+            "AC2": "the key is alignment. And as Rich mentioned, the more integrated transaction with tools that serve Zillow's customers well and also sort of their partner network flow",
+            "Relation": "RA",
+            "AC1ID": "1043896",
+            "AC2ID": "1043901",
+            "RelationID": "1043915",
+            "Results_AC1": [
+                {
+                    "frame_label": "Labeling",
+                    "relevant_elements": {
+                        "Speaker": "Allen",
+                        "Entity": "one or the other",
+                        "Label": "as the biggest driver of the journey to the 2025 targets"
+                    },
+                    "relevant_trigger_word": "call",
+                    "prompt1": [
+                        "Allen said he would call for one or the other of these as the biggest driver of the journey to the 2025 targets"
+                    ],
+                    "prompt2": [
+                        "Speaker Name Labeling Name Entity Name Label"
+                    ]
+                }
+            ],
+            "Results_AC2": [
+                {
+                    "frame_label": "Importance",
+                    "relevant_elements": {
+                        "Factor": "alignment"
+                    },
+                    "relevant_trigger_word": "key",
+                    "prompt1": [
+                        "key to alignment"
+                    ],
+                    "prompt2": [
+                        "Importance of Factor"
+                    ]
+                }
+            ],
+            "predicted_relation": "RA"
+        },
+        {
+            "AC1": "Zillow are very pleased with where they are, both on the MBP and Flex model",
+            "AC2": "Allen wouldn't call one or the other out as the biggest driver of the journey to the 2025 targets",
+            "Relation": "CA",
+            "AC1ID": "1043891",
+            "AC2ID": "1043896",
+            "RelationID": "1043917",
+            "Results_AC1": [
+                {
+                    "frame_label": "Experiencer_focus",
+                    "relevant_elements": {
+                        "Experiencer": "Zillow",
+                        "Degree": "very",
+                        "Content": "with where they are, both on the MBP and Flex model"
+                    },
+                    "relevant_trigger_word": "pleased",
+                    "prompt1": [
+                        "Zillow says they are very happy and pleased with where they are, both on the MBP and Flex model"
+                    ],
+                    "prompt2": [
+                        "Experiencer | Degree | Experiencer_focus | Content"
+                    ]
+                }
+            ],
+            "Results_AC2": [
+                {
+                    "frame_label": "Labeling",
+                    "relevant_elements": {
+                        "Speaker": "Allen",
+                        "Entity": "one or the other",
+                        "Label": "as the biggest driver of the journey to the 2025 targets"
+                    },
+                    "relevant_trigger_word": "call",
+                    "prompt1": [
+                        "Allen said he would call for one or the other of these as the biggest driver of the journey to the 2025 targets"
+                    ],
+                    "prompt2": [
+                        "Speaker Name Labeling Name Entity Name Label"
+                    ]
+                }
+            ],
+            "predicted_relation": "RA"
+        },
+        {
+            "AC1": "Ford, for the Super Bowl ads that they have coming up, is not going to make an advertisement that says \"sell your current car\"",
+            "AC2": "What they're do -- what their marketing on the Super Bowl ad is \"the dream of the new car\" with the red bow on it in the driveway",
+            "Relation": "RA",
+            "AC1ID": "1043919",
+            "AC2ID": "1043928",
+            "RelationID": "1043934",
+            "Results_AC1": [
+                {
+                    "frame_label": "Vehicle",
+                    "relevant_elements": {
+                        "Possessor": "your",
+                        "Time": "current",
+                        "Vehicle": "car"
+                    },
+                    "relevant_trigger_word": "car\"",
+                    "prompt1": [
+                        "your current car\" your current car"
+                    ],
+                    "prompt2": [
+                        "Possessor Last Time Used Vehicle Last Vehicle"
+                    ]
+                }
+            ],
+            "Results_AC2": [
+                {
+                    "frame_label": "Vehicle",
+                    "relevant_elements": {
+                        "Descriptor": "new",
+                        "Vehicle": "car"
+                    },
+                    "relevant_trigger_word": "car\"",
+                    "prompt1": [
+                        "new \"smart car\" smart car"
+                    ],
+                    "prompt2": [
+                        "Descriptor of Vehicle Description Vehicle"
+                    ]
+                }
+            ],
+            "predicted_relation": "RA"
+        },
+        {
+            "AC1": "Ford, for the Super Bowl ads that they have coming up, is not going to make an advertisement that says \"sell your current car\"",
+            "AC2": "The housing equivalent of that, it holds",
+            "Relation": "RA",
+            "AC1ID": "1043919",
+            "AC2ID": "1043936",
+            "RelationID": "1043941",
+            "Results_AC1": [
+                {
+                    "frame_label": "Vehicle",
+                    "relevant_elements": {
+                        "Possessor": "your",
+                        "Time": "current",
+                        "Vehicle": "car"
+                    },
+                    "relevant_trigger_word": "car\"",
+                    "prompt1": [
+                        "your current car\" your current car"
+                    ],
+                    "prompt2": [
+                        "Possessor Last Time Used Vehicle Last Vehicle"
+                    ]
+                }
+            ],
+            "Results_AC2": [
+                {
+                    "frame_label": "Buildings",
+                    "relevant_elements": {
+                        "Building": "housing"
+                    },
+                    "relevant_trigger_word": "housing",
+                    "prompt1": [
+                        "housing and affordable housing"
+                    ],
+                    "prompt2": [
+                        "Buildings Related Buildings"
+                    ]
+                }
+            ],
+            "predicted_relation": "RA"
+        },
+        {
+            "AC1": "solving this kind of painful but necessary part of the super app, part of the moving process, of selling your house is a big deal",
+            "AC2": "Zillow are fully embracing the sell side and moving process",
+            "Relation": "RA",
+            "AC1ID": "1043963",
+            "AC2ID": "1043973",
+            "RelationID": "1043981",
+            "Results_AC1": [
+                {
+                    "frame_label": "Buildings",
+                    "relevant_elements": {
+                        "Building": "house"
+                    },
+                    "relevant_trigger_word": "house",
+                    "prompt1": [
+                        "house house house"
+                    ],
+                    "prompt2": [
+                        "Buildings Related Buildings"
+                    ]
+                }
+            ],
+            "Results_AC2": [
+                {
+                    "frame_label": "Process",
+                    "relevant_elements": {
+                        "Process": "sell side and moving"
+                    },
+                    "relevant_trigger_word": "process",
+                    "prompt1": [
+                        "sell side and moving forward in the process"
+                    ],
+                    "prompt2": [
+                        "Process to Process"
+                    ]
+                }
+            ],
+            "predicted_relation": "RA"
+        },
+        {
+            "AC1": "Zillow know a whole lot more about sell side and moving business now",
+            "AC2": "Zillow will pitch a big test over that and are innovating and working with partners to make sure we have compelling offerings to solve that particular problem",
+            "Relation": "RA",
+            "AC1ID": "1043988",
+            "AC2ID": "1043993",
+            "RelationID": "1044000",
+            "Results_AC1": [
+                {
+                    "frame_label": "Businesses",
+                    "relevant_elements": {
+                        "Product": "sell side and moving",
+                        "Business": "business"
+                    },
+                    "relevant_trigger_word": "business",
+                    "prompt1": [
+                        "sell side and moving from business to business"
+                    ],
+                    "prompt2": [
+                        "Product Design Businesses Product Businesses"
+                    ]
+                }
+            ],
+            "Results_AC2": [
+                {
+                    "frame_label": "Collaboration",
+                    "relevant_elements": {
+                        "Partner_1": "partners"
+                    },
+                    "relevant_trigger_word": "partners",
+                    "prompt1": [
+                        "partners and partners"
+                    ],
+                    "prompt2": [
+                        "Collaboration and Collaboration"
+                    ]
+                }
+            ],
+            "predicted_relation": "RA"
+        },
+        {
+            "AC1": "Zillow ran a big giant experiment with iBuying",
+            "AC2": "Zillow know a whole lot more about sell side and moving business now",
+            "Relation": "RA",
+            "AC1ID": "1043983",
+            "AC2ID": "1043988",
+            "RelationID": "1044002",
+            "Results_AC1": [
+                {
+                    "frame_label": "Size",
+                    "relevant_elements": {
+                        "Entity": "experiment"
+                    },
+                    "relevant_trigger_word": "giant",
+                    "prompt1": [
+                        "giant brain experiment"
+                    ],
+                    "prompt2": [
+                        "Size of Entity"
+                    ]
+                }
+            ],
+            "Results_AC2": [
+                {
+                    "frame_label": "Businesses",
+                    "relevant_elements": {
+                        "Product": "sell side and moving",
+                        "Business": "business"
+                    },
+                    "relevant_trigger_word": "business",
+                    "prompt1": [
+                        "sell side and moving from business to business"
+                    ],
+                    "prompt2": [
+                        "Product Design Businesses Product Businesses"
+                    ]
+                }
+            ],
+            "predicted_relation": "RA"
+        },
+        {
+            "AC1": "maybe we'll call it dreaming",
+            "AC2": "certainly most sellers in the market, even when they're at the very early stages of selling transitioning to selling - they show up in our apps",
+            "Relation": "CA",
+            "AC1ID": "1037540",
+            "AC2ID": "1041946",
+            "RelationID": "1041955",
+            "Results_AC1": [
+                {
+                    "frame_label": "Labeling",
+                    "relevant_elements": {
+                        "Speaker": "we",
+                        "Entity": "it",
+                        "Label": "dreaming"
+                    },
+                    "relevant_trigger_word": "call",
+                    "prompt1": [
+                        "we can call it dreaming"
+                    ],
+                    "prompt2": [
+                        "Speaker Name Labeling Name Entity Name Label"
+                    ]
+                }
+            ],
+            "Results_AC2": [
+                {
+                    "frame_label": "Likelihood",
+                    "relevant_elements": {
+                        "Hypothetical_event": "most sellers in the market, even when they're at the very early stages of selling transitioning to selling"
+                    },
+                    "relevant_trigger_word": "certainly",
+                    "prompt1": [
+                        "certainly is the case with most sellers in the market, even when they're at the very early stages of selling transitioning to selling"
+                    ],
+                    "prompt2": [
+                        "Likelihood of Hypothetical_event"
+                    ]
+                }
+            ],
+            "predicted_relation": "RA"
+        },
+        {
+            "AC1": "Sellers look at their Zestimate. They start talking to people. They start looking at comps and consuming information",
+            "AC2": "certainly most sellers in the market, even when they're at the very early stages of selling transitioning to selling - they show up in our apps",
+            "Relation": "RA",
+            "AC1ID": "1041935",
+            "AC2ID": "1041946",
+            "RelationID": "1041959",
+            "Results_AC1": [
+                {
+                    "frame_label": "Information",
+                    "relevant_elements": {
+                        "Information": "information"
+                    },
+                    "relevant_trigger_word": "information",
+                    "prompt1": [
+                        "information and information"
+                    ],
+                    "prompt2": [
+                        "Information and Information"
+                    ]
+                }
+            ],
+            "Results_AC2": [
+                {
+                    "frame_label": "Likelihood",
+                    "relevant_elements": {
+                        "Hypothetical_event": "most sellers in the market, even when they're at the very early stages of selling transitioning to selling"
+                    },
+                    "relevant_trigger_word": "certainly",
+                    "prompt1": [
+                        "certainly is the case with most sellers in the market, even when they're at the very early stages of selling transitioning to selling"
+                    ],
+                    "prompt2": [
+                        "Likelihood of Hypothetical_event"
+                    ]
+                }
+            ],
+            "predicted_relation": "RA"
+        },
+        {
+            "AC1": "Zillow have learned a whole lot about  transitioning that light touch into a conversation",
+            "AC2": "certainly most sellers in the market, even when they're at the very early stages of selling transitioning to selling - they show up in our apps",
+            "Relation": "RA",
+            "AC1ID": "1041943",
+            "AC2ID": "1041946",
+            "RelationID": "1041964",
+            "Results_AC1": [
+                {
+                    "frame_label": "Chatting",
+                    "relevant_elements": {},
+                    "relevant_trigger_word": "conversation",
+                    "prompt1": [
+                        "conversation"
+                    ],
+                    "prompt2": [
+                        "Chatting"
+                    ]
+                }
+            ],
+            "Results_AC2": [
+                {
+                    "frame_label": "Likelihood",
+                    "relevant_elements": {
+                        "Hypothetical_event": "most sellers in the market, even when they're at the very early stages of selling transitioning to selling"
+                    },
+                    "relevant_trigger_word": "certainly",
+                    "prompt1": [
+                        "certainly is the case with most sellers in the market, even when they're at the very early stages of selling transitioning to selling"
+                    ],
+                    "prompt2": [
+                        "Likelihood of Hypothetical_event"
+                    ]
+                }
+            ],
+            "predicted_relation": "RA"
+        },
+        {
+            "AC1": "In doing Zillow Offers, Zillow have learned a ton about transitioning",
+            "AC2": "whether the front door is through the Zestimate, or through a request for prequalification, or looking for an agent, or just wanting advice - Zillow have a lot of ways to take a customer conversation from a kind of a shallow one to an advisory conversation",
+            "Relation": "RA",
+            "AC1ID": "1041966",
+            "AC2ID": "1037588",
+            "RelationID": "1041972",
+            "Results_AC1": [
+                {
+                    "frame_label": "Education_teaching",
+                    "relevant_elements": {
+                        "Student": "Zillow",
+                        "Skill": "a ton about transitioning"
+                    },
+                    "relevant_trigger_word": "learned",
+                    "prompt1": [
+                        "Zillow CEO has learned a ton about transitioning"
+                    ],
+                    "prompt2": [
+                        "Student Education Student Education_teaching Skill Skill"
+                    ]
+                }
+            ],
+            "Results_AC2": [
+                {
+                    "frame_label": "Chatting",
+                    "relevant_elements": {
+                        "Interlocutors": "customer"
+                    },
+                    "relevant_trigger_word": "conversation",
+                    "prompt1": [
+                        "customer service conversation"
+                    ],
+                    "prompt2": [
+                        "Interlocutors and Chatting"
+                    ]
+                }
+            ],
+            "predicted_relation": "RA"
+        },
+        {
+            "AC1": "whether the front door is through the Zestimate, or through a request for prequalification, or looking for an agent, or just wanting advice - Zillow have a lot of ways to take a customer conversation from a kind of a shallow one to an advisory conversation",
+            "AC2": "Zillow look forward to being able to now refocus more broadly on that, that set of customers, rather than basically having one really -- really having the organization and all our profits from the core business focused on that one thing to sell in the store",
+            "Relation": "RA",
+            "AC1ID": "1037588",
+            "AC2ID": "1041975",
+            "RelationID": "1042001",
+            "Results_AC1": [
+                {
+                    "frame_label": "Chatting",
+                    "relevant_elements": {
+                        "Interlocutors": "customer"
+                    },
+                    "relevant_trigger_word": "conversation",
+                    "prompt1": [
+                        "customer service conversation"
+                    ],
+                    "prompt2": [
+                        "Interlocutors and Chatting"
+                    ]
+                }
+            ],
+            "Results_AC2": [
+                {
+                    "frame_label": "Commerce_sell",
+                    "relevant_elements": {
+                        "Place": "in the store"
+                    },
+                    "relevant_trigger_word": "sell",
+                    "prompt1": [
+                        "sell it in the store"
+                    ],
+                    "prompt2": [
+                        "Commerce_sell The Place"
+                    ]
+                }
+            ],
+            "predicted_relation": "RA"
+        },
+        {
+            "AC1": "Zillow only have kind of one thing to sell in the store in our iBuying operation",
+            "AC2": "Having one thing to sell in iBuying is going to free us up from having to think so narrowly",
+            "Relation": "RA",
+            "AC1ID": "1037626",
+            "AC2ID": "1041982",
+            "RelationID": "1042004",
+            "Results_AC1": [
+                {
+                    "frame_label": "Commerce_sell",
+                    "relevant_elements": {
+                        "Goods": "one thing",
+                        "Place": "in the store"
+                    },
+                    "relevant_trigger_word": "sell",
+                    "prompt1": [
+                        "one thing we don't sell here in the store"
+                    ],
+                    "prompt2": [
+                        "Goods & Commerce_sell The Place"
+                    ]
+                }
+            ],
+            "Results_AC2": [
+                {
+                    "frame_label": "Commerce_sell",
+                    "relevant_elements": {
+                        "Goods": "one thing",
+                        "Place": "in iBuying"
+                    },
+                    "relevant_trigger_word": "sell",
+                    "prompt1": [
+                        "one thing to sell for in iBuying"
+                    ],
+                    "prompt2": [
+                        "Goods & Commerce_sell The Place"
+                    ]
+                }
+            ],
+            "predicted_relation": "RA"
+        },
+        {
+            "AC1": "it frees Zillow up from having to think so narrowly",
+            "AC2": "Zillow can capitalize on, you know, a broader opportunity",
+            "Relation": "RA",
+            "AC1ID": "1041990",
+            "AC2ID": "1041995",
+            "RelationID": "1042015",
+            "Results_AC1": [
+                {
+                    "frame_label": "Expensiveness",
+                    "relevant_elements": {
+                        "Goods": "it",
+                        "Payer": "Zillow",
+                        "Intended_event": "from having to think so narrowly"
+                    },
+                    "relevant_trigger_word": "frees",
+                    "prompt1": [
+                        "it also frees up Zillow and others from having to think so narrowly"
+                    ],
+                    "prompt2": [
+                        "Goods and Expensiveness of Payer Services Intended_event"
+                    ]
+                }
+            ],
+            "Results_AC2": [
+                {
+                    "frame_label": "Capability",
+                    "relevant_elements": {
+                        "Entity": "Zillow",
+                        "Event": "capitalize on, you know, a broader opportunity"
+                    },
+                    "relevant_trigger_word": "can",
+                    "prompt1": [
+                        "Zillow CEO: We can really capitalize on, you know, a broader opportunity"
+                    ],
+                    "prompt2": [
+                        "Entity Specific Capability of Event"
+                    ]
+                }
+            ],
+            "predicted_relation": "RA"
+        },
+        {
+            "AC1": "segment margin in IMT guidance is 47%",
+            "AC2": "first margins about 44%",
+            "Relation": "RA",
+            "AC1ID": "1018306",
+            "AC2ID": "1018313",
+            "RelationID": "1038887",
+            "Results_AC1": [],
+            "Results_AC2": [
+                {
+                    "frame_label": "Ordinal_numbers",
+                    "relevant_elements": {
+                        "Item": "margins"
+                    },
+                    "relevant_trigger_word": "first",
+                    "prompt1": [
+                        "first quarter margins"
+                    ],
+                    "prompt2": [
+                        "Ordinal_numbers - Item"
+                    ]
+                }
+            ],
+            "predicted_relation": "RA"
+        },
+        {
+            "AC1": "first margins about 44%",
+            "AC2": "if full year margins are going to be kind of flashed with last year, it implies a big step up in the second half",
+            "Relation": "RA",
+            "AC1ID": "1018313",
+            "AC2ID": "1018319",
+            "RelationID": "1038890",
+            "Results_AC1": [
+                {
+                    "frame_label": "Ordinal_numbers",
+                    "relevant_elements": {
+                        "Item": "margins"
+                    },
+                    "relevant_trigger_word": "first",
+                    "prompt1": [
+                        "first quarter margins"
+                    ],
+                    "prompt2": [
+                        "Ordinal_numbers - Item"
+                    ]
+                }
+            ],
+            "Results_AC2": [
+                {
+                    "frame_label": "Part_whole",
+                    "relevant_elements": {
+                        "Part_prop": "second",
+                        "Part": "half"
+                    },
+                    "relevant_trigger_word": "half",
+                    "prompt1": [
+                        "second half first half"
+                    ],
+                    "prompt2": [
+                        "Part_prop - Part_whole Part_prop Part_Whole"
+                    ]
+                }
+            ],
+            "predicted_relation": "RA"
+        },
+        {
+            "AC1": "in Q1 Premier Agent growth of 38% year-over-year",
+            "AC2": "we've seen this accelerating underlying growth trend in Premiere Agent",
+            "Relation": "RA",
+            "AC1ID": "1018350",
+            "AC2ID": "1018358",
+            "RelationID": "1038907",
+            "Results_AC1": [
+                {
+                    "frame_label": "Change_position_on_a_scale",
+                    "relevant_elements": {
+                        "Item": "Premier Agent",
+                        "Difference": "of 38%",
+                        "Time": "year-over-year"
+                    },
+                    "relevant_trigger_word": "growth",
+                    "prompt1": [
+                        "Premier Agent reports sales growth of 38% in year-over-year"
+                    ],
+                    "prompt2": [
+                        "Item Name Change_position_on_a_scale Size Difference Time"
+                    ]
+                }
+            ],
+            "Results_AC2": [
+                {
+                    "frame_label": "Cause_expansion",
+                    "relevant_elements": {},
+                    "relevant_trigger_word": "growth",
+                    "prompt1": [
+                        "growth"
+                    ],
+                    "prompt2": [
+                        "Cause_expansion"
+                    ]
+                }
+            ],
+            "predicted_relation": "RA"
+        },
+        {
+            "AC1": "we've seen this accelerating underlying growth trend in Premiere Agent",
+            "AC2": "If you look in our Q2 outlook, the underlying growth rate of 38%, at the midpoint, after you adjust for the better together discounts, is a continuation of, you know, the inputs that we're seeing",
+            "Relation": "RA",
+            "AC1ID": "1018358",
+            "AC2ID": "1018366",
+            "RelationID": "1038912",
+            "Results_AC1": [
+                {
+                    "frame_label": "Cause_expansion",
+                    "relevant_elements": {},
+                    "relevant_trigger_word": "growth",
+                    "prompt1": [
+                        "growth"
+                    ],
+                    "prompt2": [
+                        "Cause_expansion"
+                    ]
+                }
+            ],
+            "Results_AC2": [
+                {
+                    "frame_label": "Proportion",
+                    "relevant_elements": {
+                        "Subset": "underlying growth",
+                        "Ratio": "of 38%"
+                    },
+                    "relevant_trigger_word": "rate",
+                    "prompt1": [
+                        "underlying growth at a rate of 38%"
+                    ],
+                    "prompt2": [
+                        "Subset of Proportion of Ratio"
+                    ]
+                }
+            ],
+            "predicted_relation": "RA"
+        },
+        {
+            "AC1": "We have a large audience, strong top of the funnel",
+            "AC2": "when you combine that with a focus on some of the inputs of customer satisfaction and conversion and revenue per lead, we're just seeing very encouraging trends on the inputs",
+            "Relation": "RA",
+            "AC1ID": "1018374",
+            "AC2ID": "1018378",
+            "RelationID": "1038924",
+            "Results_AC1": [
+                {
+                    "frame_label": "Size",
+                    "relevant_elements": {
+                        "Entity": "audience"
+                    },
+                    "relevant_trigger_word": "large",
+                    "prompt1": [
+                        "large print audience"
+                    ],
+                    "prompt2": [
+                        "Size of Entity"
+                    ]
+                }
+            ],
+            "Results_AC2": [
+                {
+                    "frame_label": "Grasp",
+                    "relevant_elements": {
+                        "Cognizer": "we",
+                        "Time": "just",
+                        "Phenomenon": "very encouraging trends",
+                        "Reference_point": "on the inputs"
+                    },
+                    "relevant_trigger_word": "seeing",
+                    "prompt1": [
+                        "we are just now seeing some very encouraging trends based on the inputs"
+                    ],
+                    "prompt2": [
+                        "Cognizer of Time and Grasp the Phenomenon of Reference_point"
+                    ]
+                }
+            ],
+            "predicted_relation": "RA"
+        },
+        {
+            "AC1": "when you combine that with a focus on some of the inputs of customer satisfaction and conversion and revenue per lead, we're just seeing very encouraging trends on the inputs",
+            "AC2": "predicated by this focus on helping the customer get through the transaction",
+            "Relation": "RA",
+            "AC1ID": "1018378",
+            "AC2ID": "1018382",
+            "RelationID": "1038927",
+            "Results_AC1": [
+                {
+                    "frame_label": "Grasp",
+                    "relevant_elements": {
+                        "Cognizer": "we",
+                        "Time": "just",
+                        "Phenomenon": "very encouraging trends",
+                        "Reference_point": "on the inputs"
+                    },
+                    "relevant_trigger_word": "seeing",
+                    "prompt1": [
+                        "we are just now seeing some very encouraging trends based on the inputs"
+                    ],
+                    "prompt2": [
+                        "Cognizer of Time and Grasp the Phenomenon of Reference_point"
+                    ]
+                }
+            ],
+            "Results_AC2": [
+                {
+                    "frame_label": "Commercial_transaction",
+                    "relevant_elements": {},
+                    "relevant_trigger_word": "transaction",
+                    "prompt1": [
+                        "transaction"
+                    ],
+                    "prompt2": [
+                        "Commercial_transaction"
+                    ]
+                }
+            ],
+            "predicted_relation": "RA"
+        },
+        {
+            "AC1": "the Premier Agent Q2, two year growth rate of 49% that I called -- we called out in the shareholder letter, at the midpoint of our range is probably a good way to think about growth",
+            "AC2": "as you look at your models on how to model forward through this weird year that we had in 2020",
+            "Relation": "RA",
+            "AC1ID": "1018407",
+            "AC2ID": "1018413",
+            "RelationID": "1038940",
+            "Results_AC1": [
+                {
+                    "frame_label": "Proportion",
+                    "relevant_elements": {
+                        "Subset": "growth",
+                        "Ratio": "of 49%"
+                    },
+                    "relevant_trigger_word": "rate",
+                    "prompt1": [
+                        "growth rate of 1% of 49%"
+                    ],
+                    "prompt2": [
+                        "Subset of Proportion of Ratio"
+                    ]
+                }
+            ],
+            "Results_AC2": [
+                {
+                    "frame_label": "Calendric_unit",
+                    "relevant_elements": {
+                        "Unit": "year"
+                    },
+                    "relevant_trigger_word": "year",
+                    "prompt1": [
+                        "year by year"
+                    ],
+                    "prompt2": [
+                        "Calendric_unit Calendric-unitCalendarCalendarcalendarcalendricCalendar_unitcalendar-calendar calendarcalendercalendar_calendar CalendarcaltercalterCalendaraltercalcercalter Calendar_Calendar-CalterCalter_CalcerCalter-CalcercalcerCalcer_CalperCalcer-Calpercalcer CalterCalceralterCalcalceralcerCalcalteralcercerCalcleralcercalclercalclerCalcler_Calcler-CalclercalcerClercalcerclerCalclerclerclercalclerclercalclercclerclerclerclclerclercclerclicerclerclercclerclericclercclerclerculerclerclerclercclerclerclerglerclergerclergersclerglersclergelclogersclogerclogsclogclog"
+                    ]
+                }
+            ],
+            "predicted_relation": "RA"
+        },
+        {
+            "AC1": "Zillow position themselves to drive sustainable, profitable long-term growth",
+            "AC2": "Zillow do expect this margin rate to reflect accelerated investments in marketing and staffing and technology to provide innovation on behalf of the customer",
+            "Relation": "RA",
+            "AC1ID": "1018426",
+            "AC2ID": "1018431",
+            "RelationID": "1038946",
+            "Results_AC1": [
+                {
+                    "frame_label": "Earnings_and_losses",
+                    "relevant_elements": {
+                        "Goods": "long-term growth"
+                    },
+                    "relevant_trigger_word": "profitable",
+                    "prompt1": [
+                        "profitable and long-term growth"
+                    ],
+                    "prompt2": [
+                        "Earnings_and_losses by Goods"
+                    ]
+                }
+            ],
+            "Results_AC2": [
+                {
+                    "frame_label": "Supply",
+                    "relevant_elements": {
+                        "Theme": "innovation on behalf of the customer"
+                    },
+                    "relevant_trigger_word": "provide",
+                    "prompt1": [
+                        "provide a platform for innovation on behalf of the customer"
+                    ],
+                    "prompt2": [
+                        "Supply Chain Theme"
+                    ]
+                }
+            ],
+            "predicted_relation": "RA"
+        },
+        {
+            "AC1": "Zillow do expect this margin rate to reflect accelerated investments in marketing and staffing and technology to provide innovation on behalf of the customer",
+            "AC2": "Zillow do expect that to increase from Q1 levels and we expect further acceleration in Q3",
+            "Relation": "RA",
+            "AC1ID": "1018431",
+            "AC2ID": "1018438",
+            "RelationID": "1038950",
+            "Results_AC1": [
+                {
+                    "frame_label": "Supply",
+                    "relevant_elements": {
+                        "Theme": "innovation on behalf of the customer"
+                    },
+                    "relevant_trigger_word": "provide",
+                    "prompt1": [
+                        "provide a platform for innovation on behalf of the customer"
+                    ],
+                    "prompt2": [
+                        "Supply Chain Theme"
+                    ]
+                }
+            ],
+            "Results_AC2": [
+                {
+                    "frame_label": "Expectation",
+                    "relevant_elements": {
+                        "Cognizer": "Zillow",
+                        "Phenomenon": "to increase from Q1 levels"
+                    },
+                    "relevant_trigger_word": "expect",
+                    "prompt1": [
+                        "Zillow home prices expect to continue to increase from Q1 levels"
+                    ],
+                    "prompt2": [
+                        "Cognizer - Expectation & Phenomenon"
+                    ]
+                }
+            ],
+            "predicted_relation": "RA"
+        },
+        {
+            "AC1": "Zillow do expect that to increase from Q1 levels and we expect further acceleration in Q3",
+            "AC2": "for the full year Zillow do expect either dollar growth, but that growth more in line with revenue growth rates, rather than expansion off the 38% margin rate we put it in 2020\u00a0",
+            "Relation": "RA",
+            "AC1ID": "1018438",
+            "AC2ID": "1018445",
+            "RelationID": "1038954",
+            "Results_AC1": [
+                {
+                    "frame_label": "Expectation",
+                    "relevant_elements": {
+                        "Cognizer": "Zillow",
+                        "Phenomenon": "to increase from Q1 levels"
+                    },
+                    "relevant_trigger_word": "expect",
+                    "prompt1": [
+                        "Zillow home prices expect to continue to increase from Q1 levels"
+                    ],
+                    "prompt2": [
+                        "Cognizer - Expectation & Phenomenon"
+                    ]
+                }
+            ],
+            "Results_AC2": [
+                {
+                    "frame_label": "Earnings_and_losses",
+                    "relevant_elements": {
+                        "Earnings": "revenue"
+                    },
+                    "relevant_trigger_word": "revenue",
+                    "prompt1": [
+                        "revenue revenue revenue"
+                    ],
+                    "prompt2": [
+                        "Earnings_and_losses Q4 Earnings_&_lossSQ4 Q4Q4Q3Q3 Q3Q2Q2"
+                    ]
+                }
+            ],
+            "predicted_relation": "RA"
+        },
+        {
+            "AC1": "It's the 49%, if you just take Q2 2019 for instance, Q2 2021 midpoint, that's 49% growth",
+            "AC2": "That's on a headline basis",
+            "Relation": "RA",
+            "AC1ID": "1018494",
+            "AC2ID": "1018483",
+            "RelationID": "1038983",
+            "Results_AC1": [
+                {
+                    "frame_label": "Change_position_on_a_scale",
+                    "relevant_elements": {
+                        "Difference": "49%"
+                    },
+                    "relevant_trigger_word": "growth",
+                    "prompt1": [
+                        "49% year-on-year growth"
+                    ],
+                    "prompt2": [
+                        "Difference between Change_position_on_a_scale"
+                    ]
+                }
+            ],
+            "Results_AC2": [],
+            "predicted_relation": "RA"
+        },
+        {
+            "AC1": "Some may see this as a sign of one thing or another",
+            "AC2": "Zillow are really focused on innovating for customers and bringing new customer solutions to market",
+            "Relation": "CA",
+            "AC1ID": "1042820",
+            "AC2ID": "1042825",
+            "RelationID": "1042849",
+            "Results_AC1": [
+                {
+                    "frame_label": "Sign",
+                    "relevant_elements": {
+                        "Indicator": "sign",
+                        "Indicated": "of one thing or another"
+                    },
+                    "relevant_trigger_word": "sign",
+                    "prompt1": [
+                        "sign up to sign up of one thing or another"
+                    ],
+                    "prompt2": [
+                        "Sign or Sign Not Indicated"
+                    ]
+                }
+            ],
+            "Results_AC2": [
+                {
+                    "frame_label": "Emphasizing",
+                    "relevant_elements": {
+                        "Agent": "Zillow",
+                        "Degree": "really",
+                        "Consideration": "on innovating for customers and bringing new customer solutions to market"
+                    },
+                    "relevant_trigger_word": "focused",
+                    "prompt1": [
+                        "Zillow is a company that is really focused on innovation, focused on innovating for customers and bringing new customer solutions to market"
+                    ],
+                    "prompt2": [
+                        "Agent With Degree of Emphasizing Critical Consideration"
+                    ]
+                }
+            ],
+            "predicted_relation": "RA"
+        },
+        {
+            "AC1": "Zillow are really focused on innovating for customers and bringing new customer solutions to market",
+            "AC2": "as long as Zillow are doing great things for customers, they know that partners will be there to be with them",
+            "Relation": "RA",
+            "AC1ID": "1042825",
+            "AC2ID": "1042830",
+            "RelationID": "1042852",
+            "Results_AC1": [
+                {
+                    "frame_label": "Emphasizing",
+                    "relevant_elements": {
+                        "Agent": "Zillow",
+                        "Degree": "really",
+                        "Consideration": "on innovating for customers and bringing new customer solutions to market"
+                    },
+                    "relevant_trigger_word": "focused",
+                    "prompt1": [
+                        "Zillow is a company that is really focused on innovation, focused on innovating for customers and bringing new customer solutions to market"
+                    ],
+                    "prompt2": [
+                        "Agent With Degree of Emphasizing Critical Consideration"
+                    ]
+                }
+            ],
+            "Results_AC2": [
+                {
+                    "frame_label": "Collaboration",
+                    "relevant_elements": {
+                        "Partners": "partners"
+                    },
+                    "relevant_trigger_word": "partners",
+                    "prompt1": [
+                        "partners and partners"
+                    ],
+                    "prompt2": [
+                        "Collaboration and Collaboration"
+                    ]
+                }
+            ],
+            "predicted_relation": "RA"
+        },
+        {
+            "AC1": "Zillow built the factory over the last two and a half years or so, initially off of refinancing",
+            "AC2": "Zillow are glad that they have the ZHL mortgage business and mortgage marketplace business",
+            "Relation": "RA",
+            "AC1ID": "1042863",
+            "AC2ID": "1042855",
+            "RelationID": "1042880",
+            "Results_AC1": [
+                {
+                    "frame_label": "Building",
+                    "relevant_elements": {
+                        "Agent": "Zillow",
+                        "Created_entity": "the factory",
+                        "Duration": "over the last two and a half years or so"
+                    },
+                    "relevant_trigger_word": "built",
+                    "prompt1": [
+                        "Zillow has built up a lot of interest in the factory site over the last two and a half years or so"
+                    ],
+                    "prompt2": [
+                        "Agent # Building # Created_entity # Duration"
+                    ]
+                }
+            ],
+            "Results_AC2": [
+                {
+                    "frame_label": "Businesses",
+                    "relevant_elements": {
+                        "Place": "mortgage marketplace",
+                        "Business": "business"
+                    },
+                    "relevant_trigger_word": "business",
+                    "prompt1": [
+                        "business lending business lending mortgage marketplace"
+                    ],
+                    "prompt2": [
+                        "Businesses and Businesses in Place"
+                    ]
+                }
+            ],
+            "predicted_relation": "RA"
+        },
+        {
+            "AC1": "Zillow showed that they can close loans on time and satisfy customers",
+            "AC2": "Zillow are glad that they have the ZHL mortgage business and mortgage marketplace business",
+            "Relation": "RA",
+            "AC1ID": "1042868",
+            "AC2ID": "1042855",
+            "RelationID": "1042882",
+            "Results_AC1": [
+                {
+                    "frame_label": "Capability",
+                    "relevant_elements": {
+                        "Entity": "they",
+                        "Event": "close loans on time and satisfy customers"
+                    },
+                    "relevant_trigger_word": "can",
+                    "prompt1": [
+                        "they are confident they can continue to close loans on time and satisfy customers"
+                    ],
+                    "prompt2": [
+                        "Entity Specific Capability of Event"
+                    ]
+                }
+            ],
+            "Results_AC2": [
+                {
+                    "frame_label": "Businesses",
+                    "relevant_elements": {
+                        "Place": "mortgage marketplace",
+                        "Business": "business"
+                    },
+                    "relevant_trigger_word": "business",
+                    "prompt1": [
+                        "business lending business lending mortgage marketplace"
+                    ],
+                    "prompt2": [
+                        "Businesses and Businesses in Place"
+                    ]
+                }
+            ],
+            "predicted_relation": "RA"
+        },
+        {
+            "AC1": "Zillow have shown Their ability to be profitable with enough volume",
+            "AC2": "Zillow are glad that they have the ZHL mortgage business and mortgage marketplace business",
+            "Relation": "RA",
+            "AC1ID": "1042873",
+            "AC2ID": "1042855",
+            "RelationID": "1042885",
+            "Results_AC1": [
+                {
+                    "frame_label": "Capability",
+                    "relevant_elements": {
+                        "Entity": "Their",
+                        "Event": "to be profitable with enough volume"
+                    },
+                    "relevant_trigger_word": "ability",
+                    "prompt1": [
+                        "Their success depends on their ability to be profitable with enough volume"
+                    ],
+                    "prompt2": [
+                        "Entity Specific Capability of Event"
+                    ]
+                }
+            ],
+            "Results_AC2": [
+                {
+                    "frame_label": "Businesses",
+                    "relevant_elements": {
+                        "Place": "mortgage marketplace",
+                        "Business": "business"
+                    },
+                    "relevant_trigger_word": "business",
+                    "prompt1": [
+                        "business lending business lending mortgage marketplace"
+                    ],
+                    "prompt2": [
+                        "Businesses and Businesses in Place"
+                    ]
+                }
+            ],
+            "predicted_relation": "RA"
+        },
+        {
+            "AC1": "Zillow came into '21 and the refi volume slowed down -- when the volume goes down by a certain level",
+            "AC2": "Zillow start to see this investment they are making in their loan purchase originations business show through as investment versus profit",
+            "Relation": "RA",
+            "AC1ID": "1042887",
+            "AC2ID": "1042892",
+            "RelationID": "1042905",
+            "Results_AC1": [
+                {
+                    "frame_label": "Transition_to_a_quality",
+                    "relevant_elements": {
+                        "Entity": "the volume",
+                        "Final_quality": "down by a certain level"
+                    },
+                    "relevant_trigger_word": "goes",
+                    "prompt1": [
+                        "the volume of shares goes up or down by a certain level"
+                    ],
+                    "prompt2": [
+                        "Entity Name Transition_to_a_quality Final_quality"
+                    ]
+                }
+            ],
+            "Results_AC2": [
+                {
+                    "frame_label": "Earnings_and_losses",
+                    "relevant_elements": {
+                        "Earnings": "profit"
+                    },
+                    "relevant_trigger_word": "profit",
+                    "prompt1": [
+                        "profit profit profit"
+                    ],
+                    "prompt2": [
+                        "Earnings_and_losses Q4 Earnings_&_lossSQ4 Q4Q4Q3Q3 Q3Q2Q2"
+                    ]
+                }
+            ],
+            "predicted_relation": "RA"
+        },
+        {
+            "AC1": "Now 70% of those were leads from the Zillow Offers, you know, business",
+            "AC2": "financing is a very important part of the moving process and that having a financing factory that could help serve Zillow's customers in a variety of ways is a capability that they must have as they think about serving their customers as they move",
+            "Relation": "RA",
+            "AC1ID": "1042910",
+            "AC2ID": "1042915",
+            "RelationID": "1042921",
+            "Results_AC1": [
+                {
+                    "frame_label": "Awareness",
+                    "relevant_elements": {
+                        "Cognizer": "you",
+                        "Content": "business"
+                    },
+                    "relevant_trigger_word": "know,",
+                    "prompt1": [
+                        "you know, in business"
+                    ],
+                    "prompt2": [
+                        "Cognizer - Awareness & Content"
+                    ]
+                }
+            ],
+            "Results_AC2": [
+                {
+                    "frame_label": "Motion",
+                    "relevant_elements": {
+                        "Theme": "they"
+                    },
+                    "relevant_trigger_word": "move",
+                    "prompt1": [
+                        "they made a move"
+                    ],
+                    "prompt2": [
+                        "Theme images: Motion"
+                    ]
+                }
+            ],
+            "predicted_relation": "RA"
+        },
+        {
+            "AC1": "financing is a very important part of the moving process and that having a financing factory that could help serve Zillow's customers in a variety of ways is a capability that they must have as they think about serving their customers as they move",
+            "AC2": "that as Zillow get volume, they are able to generate profitability that you would expect from a purchase company -- or  a mortgage origination company, as that volume grows",
+            "Relation": "RA",
+            "AC1ID": "1042915",
+            "AC2ID": "1042923",
+            "RelationID": "1042929",
+            "Results_AC1": [
+                {
+                    "frame_label": "Motion",
+                    "relevant_elements": {
+                        "Theme": "they"
+                    },
+                    "relevant_trigger_word": "move",
+                    "prompt1": [
+                        "they made a move"
+                    ],
+                    "prompt2": [
+                        "Theme images: Motion"
+                    ]
+                }
+            ],
+            "Results_AC2": [
+                {
+                    "frame_label": "Businesses",
+                    "relevant_elements": {
+                        "Service_provider": "purchase",
+                        "Business": "company"
+                    },
+                    "relevant_trigger_word": "company",
+                    "prompt1": [
+                        "purchase the company buy the company"
+                    ],
+                    "prompt2": [
+                        "Service_provider - Businesses & Businesses"
+                    ]
+                }
+            ],
+            "predicted_relation": "RA"
+        },
+        {
+            "AC1": "we may see a little bit of choppiness as we go into Q4 and Q1",
+            "AC2": "there's a lot of opportunities for Zillow to present and provide their customers with pre-qualification and eventually pre-approval, and to work with their partner base in using our ZHL as the loan origination",
+            "Relation": "CA",
+            "AC1ID": "1042931",
+            "AC2ID": "1042937",
+            "RelationID": "1042946",
+            "Results_AC1": [
+                {
+                    "frame_label": "Motion",
+                    "relevant_elements": {
+                        "Theme": "we",
+                        "Goal": "into Q4 and Q1"
+                    },
+                    "relevant_trigger_word": "go",
+                    "prompt1": [
+                        "we will go back into Q4 and Q1"
+                    ],
+                    "prompt2": [
+                        "Theme / Motion / Goal"
+                    ]
+                }
+            ],
+            "Results_AC2": [
+                {
+                    "frame_label": "Opportunity",
+                    "relevant_elements": {
+                        "Opportunity": "opportunities",
+                        "Agent": "for Zillow",
+                        "Desirable_situation": "to present and provide their customers with pre-qualification and eventually pre-approval, and to work with their partner base in using our ZHL as the loan origination"
+                    },
+                    "relevant_trigger_word": "opportunities",
+                    "prompt1": [
+                        "opportunities for Zillow and ZHL. These opportunities include the ability to provide financing for Zillsow customers, to present and provide their customers with pre-qualification and eventually pre-approval, and to work with their partner base in using our ZHL as the loan origination"
+                    ],
+                    "prompt2": [
+                        "Opportunity | Opportunity | Agent | Desirable_situation"
+                    ]
+                }
+            ],
+            "predicted_relation": "RA"
+        },
+        {
+            "AC1": "Zillow do collect a ton of mortgage interest from consumers right now because of their way up funnel position",
+            "AC2": "Zillow is in a really good position to innovate here",
+            "Relation": "RA",
+            "AC1ID": "1042949",
+            "AC2ID": "1042964",
+            "RelationID": "1042971",
+            "Results_AC1": [
+                {
+                    "frame_label": "Gathering_up",
+                    "relevant_elements": {
+                        "Agent": "Zillow",
+                        "Aggregate": "a ton of mortgage interest",
+                        "Individuals": "from consumers",
+                        "Time": "right now"
+                    },
+                    "relevant_trigger_word": "collect",
+                    "prompt1": [
+                        "Zillow wants to collect a ton of mortgage interest payments from consumers \u2014 right now"
+                    ],
+                    "prompt2": [
+                        "Agent 1: Gathering_up - Aggregate All Individuals at Time"
+                    ]
+                }
+            ],
+            "Results_AC2": [
+                {
+                    "frame_label": "Usefulness",
+                    "relevant_elements": {
+                        "Entity": "position",
+                        "Purpose": "to innovate here"
+                    },
+                    "relevant_trigger_word": "good",
+                    "prompt1": [
+                        "good enough to position us to innovate here"
+                    ],
+                    "prompt2": [
+                        "Usefulness of Entity for Purpose"
+                    ]
+                }
+            ],
+            "predicted_relation": "RA"
+        },
+        {
+            "AC1": "Zillow process only a small portion of that themselves with ZHL",
+            "AC2": "Zillow is in a really good position to innovate here",
+            "Relation": "RA",
+            "AC1ID": "1042954",
+            "AC2ID": "1042964",
+            "RelationID": "1042973",
+            "Results_AC1": [
+                {
+                    "frame_label": "Part_whole",
+                    "relevant_elements": {
+                        "Part_prop": "small",
+                        "Part": "portion",
+                        "Whole": "of that"
+                    },
+                    "relevant_trigger_word": "portion",
+                    "prompt1": [
+                        "small part of thatsmall portion of thatlarge portions of that"
+                    ],
+                    "prompt2": [
+                        "Part_prop = Part_whole Part_prop Part_Whole Whole"
+                    ]
+                }
+            ],
+            "Results_AC2": [
+                {
+                    "frame_label": "Usefulness",
+                    "relevant_elements": {
+                        "Entity": "position",
+                        "Purpose": "to innovate here"
+                    },
+                    "relevant_trigger_word": "good",
+                    "prompt1": [
+                        "good enough to position us to innovate here"
+                    ],
+                    "prompt2": [
+                        "Usefulness of Entity for Purpose"
+                    ]
+                }
+            ],
+            "predicted_relation": "RA"
+        },
+        {
+            "AC1": "Zillow have a marketplace for the balance of ZHL",
+            "AC2": "Zillow is in a really good position to innovate here",
+            "Relation": "RA",
+            "AC1ID": "1042959",
+            "AC2ID": "1042964",
+            "RelationID": "1042975",
+            "Results_AC1": [],
+            "Results_AC2": [
+                {
+                    "frame_label": "Usefulness",
+                    "relevant_elements": {
+                        "Entity": "position",
+                        "Purpose": "to innovate here"
+                    },
+                    "relevant_trigger_word": "good",
+                    "prompt1": [
+                        "good enough to position us to innovate here"
+                    ],
+                    "prompt2": [
+                        "Usefulness of Entity for Purpose"
+                    ]
+                }
+            ],
+            "predicted_relation": "RA"
+        },
+        {
+            "AC1": "it is/is not just not the best use of Zillow's capital",
+            "AC2": "iBuying is/is not now something that's just too narrow for an over base",
+            "Relation": "CA",
+            "AC1ID": "1043295",
+            "AC2ID": "1043290",
+            "RelationID": "1043305",
+            "Results_AC1": [
+                {
+                    "frame_label": "Usefulness",
+                    "relevant_elements": {
+                        "Entity": "use of Zillow's capital"
+                    },
+                    "relevant_trigger_word": "best",
+                    "prompt1": [
+                        "best and worst use of Zillow's capital"
+                    ],
+                    "prompt2": [
+                        "Usefulness of Entity"
+                    ]
+                }
+            ],
+            "Results_AC2": [
+                {
+                    "frame_label": "Sufficiency",
+                    "relevant_elements": {
+                        "Item": "that",
+                        "Degree": "just",
+                        "Scale": "narrow",
+                        "Enabled_situation": "for an over base"
+                    },
+                    "relevant_trigger_word": "too",
+                    "prompt1": [
+                        "that is just way too big and narrow for an over base"
+                    ],
+                    "prompt2": [
+                        "Item # Degree of Sufficiency Scale # Enabled_situation"
+                    ]
+                }
+            ],
+            "predicted_relation": "RA"
+        },
+        {
+            "AC1": "it's early days for Zillow 360",
+            "AC2": "talking about Zillow 360 more would be premature",
+            "Relation": "RA",
+            "AC1ID": "1043335",
+            "AC2ID": "1043340",
+            "RelationID": "1043341",
+            "Results_AC1": [
+                {
+                    "frame_label": "Calendric_unit",
+                    "relevant_elements": {
+                        "Unit": "days"
+                    },
+                    "relevant_trigger_word": "days",
+                    "prompt1": [
+                        "days and days"
+                    ],
+                    "prompt2": [
+                        "Calendric_unit Calendric-unitCalendarCalendarcalendarcalendricCalendar_unitcalendar-calendar calendarcalendercalendar_calendar CalendarcaltercalterCalendaraltercalcercalter Calendar_Calendar-CalterCalter_CalcerCalter-CalcercalcerCalcer_CalperCalcer-Calpercalcer CalterCalceralterCalcalceralcerCalcalteralcercerCalcleralcercalclercalclerCalcler_Calcler-CalclercalcerClercalcerclerCalclerclerclercalclerclercalclercclerclerclerclclerclercclerclicerclerclercclerclericclercclerclerculerclerclerclercclerclerclerglerclergerclergersclerglersclergelclogersclogerclogsclogclog"
+                    ]
+                }
+            ],
+            "Results_AC2": [
+                {
+                    "frame_label": "Chatting",
+                    "relevant_elements": {
+                        "Topic": "about Zillow 360 more"
+                    },
+                    "relevant_trigger_word": "talking",
+                    "prompt1": [
+                        "talking shop about Zillow 360 more"
+                    ],
+                    "prompt2": [
+                        "Chatting on Topic"
+                    ]
+                }
+            ],
+            "predicted_relation": "RA"
+        },
+        {
+            "AC1": "Zillow are assembling all these other components, all these other ingredients that we've built, to make this integrated experience better",
+            "AC2": "it's early days for Zillow 360",
+            "Relation": "CA",
+            "AC1ID": "1043330",
+            "AC2ID": "1043335",
+            "RelationID": "1043343",
+            "Results_AC1": [
+                {
+                    "frame_label": "Building",
+                    "relevant_elements": {
+                        "Agent": "Zillow",
+                        "Created_entity": "all these other components, all these other ingredients that we've built",
+                        "Purpose": "to make this integrated experience better"
+                    },
+                    "relevant_trigger_word": "assembling",
+                    "prompt1": [
+                        "Zillow CEO: It's about assembling all these components, all these other components, and then adding all this other ingredients that we've built in to make this integrated experience better"
+                    ],
+                    "prompt2": [
+                        "Agent # Building # Created_entity # Purpose"
+                    ]
+                }
+            ],
+            "Results_AC2": [
+                {
+                    "frame_label": "Calendric_unit",
+                    "relevant_elements": {
+                        "Unit": "days"
+                    },
+                    "relevant_trigger_word": "days",
+                    "prompt1": [
+                        "days and days"
+                    ],
+                    "prompt2": [
+                        "Calendric_unit Calendric-unitCalendarCalendarcalendarcalendricCalendar_unitcalendar-calendar calendarcalendercalendar_calendar CalendarcaltercalterCalendaraltercalcercalter Calendar_Calendar-CalterCalter_CalcerCalter-CalcercalcerCalcer_CalperCalcer-Calpercalcer CalterCalceralterCalcalceralcerCalcalteralcercerCalcleralcercalclercalclerCalcler_Calcler-CalclercalcerClercalcerclerCalclerclerclercalclerclercalclercclerclerclerclclerclercclerclicerclerclercclerclericclercclerclerculerclerclerclercclerclerclerglerclergerclergersclerglersclergelclogersclogerclogsclogclog"
+                    ]
+                }
+            ],
+            "predicted_relation": "RA"
+        },
+        {
+            "AC1": "Zillow are assembling all these other components, all these other ingredients that we've built, to make this integrated experience better",
+            "AC2": "Zillow being able to slot many different choices for unlocking sellers as a part of Zillow 360 is a good opportunity",
+            "Relation": "RA",
+            "AC1ID": "1043330",
+            "AC2ID": "1043325",
+            "RelationID": "1043346",
+            "Results_AC1": [
+                {
+                    "frame_label": "Building",
+                    "relevant_elements": {
+                        "Agent": "Zillow",
+                        "Created_entity": "all these other components, all these other ingredients that we've built",
+                        "Purpose": "to make this integrated experience better"
+                    },
+                    "relevant_trigger_word": "assembling",
+                    "prompt1": [
+                        "Zillow CEO: It's about assembling all these components, all these other components, and then adding all this other ingredients that we've built in to make this integrated experience better"
+                    ],
+                    "prompt2": [
+                        "Agent # Building # Created_entity # Purpose"
+                    ]
+                }
+            ],
+            "Results_AC2": [
+                {
+                    "frame_label": "Commerce_sell",
+                    "relevant_elements": {
+                        "Seller": "sellers"
+                    },
+                    "relevant_trigger_word": "sellers",
+                    "prompt1": [
+                        "sellers and sellers"
+                    ],
+                    "prompt2": [
+                        "Commerce_sell | Commerce_sell"
+                    ]
+                }
+            ],
+            "predicted_relation": "RA"
+        },
+        {
+            "AC1": "we've seen improved conversion when Zillow have been able to offer customers integrated services in a package and leverage the lower CAC",
+            "AC2": "Zillow didn't always have to be iBuying",
+            "Relation": "RA",
+            "AC1ID": "1043380",
+            "AC2ID": "1043375",
+            "RelationID": "1043392",
+            "Results_AC1": [
+                {
+                    "frame_label": "Capability",
+                    "relevant_elements": {
+                        "Entity": "Zillow",
+                        "Event": "to offer customers integrated services in a package and leverage the lower CAC"
+                    },
+                    "relevant_trigger_word": "able",
+                    "prompt1": [
+                        "Zillow will also be able to leverage its platform to offer customers integrated services in a package and leverage the lower CAC"
+                    ],
+                    "prompt2": [
+                        "Entity Specific Capability of Event"
+                    ]
+                }
+            ],
+            "Results_AC2": [
+                {
+                    "frame_label": "Frequency",
+                    "relevant_elements": {
+                        "Event": "have to be iBuying"
+                    },
+                    "relevant_trigger_word": "always",
+                    "prompt1": [
+                        "always remember you have to be iBuying"
+                    ],
+                    "prompt2": [
+                        "Frequency of Event"
+                    ]
+                }
+            ],
+            "predicted_relation": "RA"
+        },
+        {
+            "AC1": "it's up 3% but that's a doubling of the share from what Zillow had in '21",
+            "AC2": "Mark looks at the assumptions that are in there, and the one that strikes him as most aggressive is that 6% share of transactions",
+            "Relation": "CA",
+            "AC1ID": "1044303",
+            "AC2ID": "1044298",
+            "RelationID": "1044313",
+            "Results_AC1": [],
+            "Results_AC2": [
+                {
+                    "frame_label": "Perception_active",
+                    "relevant_elements": {
+                        "Perceiver_agentive": "Mark",
+                        "Phenomenon": "at the assumptions that are in there, and the one that strikes him as most aggressive is that 6% share of transactions"
+                    },
+                    "relevant_trigger_word": "looks",
+                    "prompt1": [
+                        "Mark Zandi looks closely at the assumptions that are in there, and the one that strikes him as most aggressive is that 6% share of the pie will come from China."
+                    ],
+                    "prompt2": [
+                        "Perceiver_agentive Perception Perception_active Perception Perception Phenomenon"
+                    ]
+                }
+            ],
+            "predicted_relation": "RA"
+        },
+        {
+            "AC1": "if Zillow look at all of the different things they could do to increase that going from 3% to 6%,  the easiest things to do is XYZ And  the hardest things to do is XYZ",
+            "AC2": "we need some context as to where that -- if it was 3% in '21, it was XYZ before",
+            "Relation": "CA",
+            "AC1ID": "1044330",
+            "AC2ID": "1044325",
+            "RelationID": "1044336",
+            "Results_AC1": [
+                {
+                    "frame_label": "Difficulty",
+                    "relevant_elements": {
+                        "Activity": "things to do"
+                    },
+                    "relevant_trigger_word": "easiest",
+                    "prompt1": [
+                        "easiest and cheapest things to do"
+                    ],
+                    "prompt2": [
+                        "Difficulty Level Activity"
+                    ]
+                }
+            ],
+            "Results_AC2": [
+                {
+                    "frame_label": "Proportional_quantity",
+                    "relevant_elements": {
+                        "Denoted_quantity": "some",
+                        "Mass": "context"
+                    },
+                    "relevant_trigger_word": "some",
+                    "prompt1": [
+                        "some background, some context"
+                    ],
+                    "prompt2": [
+                        "Proportional_quantity - Proportional-quantity of Mass"
+                    ]
+                }
+            ],
+            "predicted_relation": "RA"
+        },
+        {
+            "AC1": "When you break it down into the components it feels doable to Rich",
+            "AC2": "it's up 3% but that's a doubling of the share from what Zillow had in '21",
+            "Relation": "CA",
+            "AC1ID": "1044346",
+            "AC2ID": "1044303",
+            "RelationID": "1044355",
+            "Results_AC1": [
+                {
+                    "frame_label": "Likelihood",
+                    "relevant_elements": {
+                        "Hypothetical_event": "to Rich"
+                    },
+                    "relevant_trigger_word": "doable",
+                    "prompt1": [
+                        "doable thanks to Rich"
+                    ],
+                    "prompt2": [
+                        "Likelihood of Hypothetical_event"
+                    ]
+                }
+            ],
+            "Results_AC2": [],
+            "predicted_relation": "RA"
+        },
+        {
+            "AC1": "It is, no doubt, not timid",
+            "AC2": "Rich doesn't even know if he would call this BHAG, a big hairy audacious goa",
+            "Relation": "RA",
+            "AC1ID": "1044369",
+            "AC2ID": "1044363",
+            "RelationID": "1044374",
+            "Results_AC1": [
+                {
+                    "frame_label": "Certainty",
+                    "relevant_elements": {
+                        "Content": "It is"
+                    },
+                    "relevant_trigger_word": "doubt,",
+                    "prompt1": [
+                        "It is without doubt,"
+                    ],
+                    "prompt2": [
+                        "Content and Certainty"
+                    ]
+                }
+            ],
+            "Results_AC2": [
+                {
+                    "frame_label": "Labeling",
+                    "relevant_elements": {
+                        "Speaker": "he",
+                        "Entity": "this",
+                        "Label": "BHAG, a big hairy audacious goa"
+                    },
+                    "relevant_trigger_word": "call",
+                    "prompt1": [
+                        "he will call it this - BHAG, a big hairy audacious goa"
+                    ],
+                    "prompt2": [
+                        "Speaker Name Labeling Name Entity Name Label"
+                    ]
+                }
+            ],
+            "predicted_relation": "RA"
+        },
+        {
+            "AC1": "there is the creativity they tend to release internally with all the smart people Zllow have",
+            "AC2": "But, you know, these goals end up being self-fulfilling",
+            "Relation": "RA",
+            "AC1ID": "1044382",
+            "AC2ID": "1044377",
+            "RelationID": "1044393",
+            "Results_AC1": [
+                {
+                    "frame_label": "Existence",
+                    "relevant_elements": {
+                        "Entity": "the creativity they tend to release internally with all the smart people Zllow have"
+                    },
+                    "relevant_trigger_word": "there",
+                    "prompt1": [
+                        "there is a lot of the creativity they tend to release internally with all the smart people Zllow have"
+                    ],
+                    "prompt2": [
+                        "Existence of Entity"
+                    ]
+                }
+            ],
+            "Results_AC2": [
+                {
+                    "frame_label": "Purpose",
+                    "relevant_elements": {},
+                    "relevant_trigger_word": "goals",
+                    "prompt1": [
+                        "goals"
+                    ],
+                    "prompt2": [
+                        "Purpose"
+                    ]
+                }
+            ],
+            "predicted_relation": "RA"
+        },
+        {
+            "AC1": "given the resources Zillow have, Rich is confident",
+            "AC2": "there is the creativity they tend to release internally with all the smart people Zllow have",
+            "Relation": "RA",
+            "AC1ID": "1044387",
+            "AC2ID": "1044382",
+            "RelationID": "1044395",
+            "Results_AC1": [
+                {
+                    "frame_label": "Certainty",
+                    "relevant_elements": {
+                        "Concessive": "given the resources Zillow have",
+                        "Cognizer": "Rich"
+                    },
+                    "relevant_trigger_word": "confident",
+                    "prompt1": [
+                        "given the resources Zillow have at their disposal, Rich is confident"
+                    ],
+                    "prompt2": [
+                        "Concessive Cognitive Cognizer for Certainty"
+                    ]
+                }
+            ],
+            "Results_AC2": [
+                {
+                    "frame_label": "Existence",
+                    "relevant_elements": {
+                        "Entity": "the creativity they tend to release internally with all the smart people Zllow have"
+                    },
+                    "relevant_trigger_word": "there",
+                    "prompt1": [
+                        "there is a lot of the creativity they tend to release internally with all the smart people Zllow have"
+                    ],
+                    "prompt2": [
+                        "Existence of Entity"
+                    ]
+                }
+            ],
+            "predicted_relation": "RA"
+        },
+        {
+            "AC1": "Right now, it's super complicated to schedule a home tour",
+            "AC2": "you know, a good deal of home tour request demand goes unfulfilled",
+            "Relation": "RA",
+            "AC1ID": "1044408",
+            "AC2ID": "1044413",
+            "RelationID": "1044419",
+            "Results_AC1": [
+                {
+                    "frame_label": "Travel",
+                    "relevant_elements": {
+                        "Goal": "home"
+                    },
+                    "relevant_trigger_word": "tour",
+                    "prompt1": [
+                        "home video tour"
+                    ],
+                    "prompt2": [
+                        "Goal of Travel"
+                    ]
+                }
+            ],
+            "Results_AC2": [
+                {
+                    "frame_label": "Motion",
+                    "relevant_elements": {
+                        "Theme": "a good deal of home tour request demand",
+                        "Manner": "unfulfilled"
+                    },
+                    "relevant_trigger_word": "goes",
+                    "prompt1": [
+                        "a good deal of home tour request demand from the public goes unmet and unfulfilled"
+                    ],
+                    "prompt2": [
+                        "Theme / Motion / Manner"
+                    ]
+                }
+            ],
+            "predicted_relation": "RA"
+        },
+        {
+            "AC1": "it's 23% of our tours only that Zillow are fulfilling today",
+            "AC2": "Zillow have meaningful opportunities to upside those",
+            "Relation": "RA",
+            "AC1ID": "1044430",
+            "AC2ID": "1044440",
+            "RelationID": "1044446",
+            "Results_AC1": [
+                {
+                    "frame_label": "Travel",
+                    "relevant_elements": {
+                        "Traveler": "our"
+                    },
+                    "relevant_trigger_word": "tours",
+                    "prompt1": [
+                        "our online tours"
+                    ],
+                    "prompt2": [
+                        "Traveler Reviews Travel"
+                    ]
+                }
+            ],
+            "Results_AC2": [
+                {
+                    "frame_label": "Opportunity",
+                    "relevant_elements": {
+                        "Opportunity": "opportunities",
+                        "Desirable_situation": "to upside those"
+                    },
+                    "relevant_trigger_word": "opportunities",
+                    "prompt1": [
+                        "opportunities and opportunities to upside those"
+                    ],
+                    "prompt2": [
+                        "Opportunity - Opportunity - Desirable_situation"
+                    ]
+                }
+            ],
+            "predicted_relation": "RA"
+        },
+        {
+            "AC1": "Zillow get about double the conversion rate on a tour of their other leads",
+            "AC2": "growing the mix of touring is pretty significant to help drive conversion rate",
+            "Relation": "RA",
+            "AC1ID": "1044448",
+            "AC2ID": "1044453",
+            "RelationID": "1044460",
+            "Results_AC1": [
+                {
+                    "frame_label": "Proportion",
+                    "relevant_elements": {
+                        "Subset": "conversion"
+                    },
+                    "relevant_trigger_word": "rate",
+                    "prompt1": [
+                        "conversion rate conversion rate"
+                    ],
+                    "prompt2": [
+                        "Subset and Proportion"
+                    ]
+                }
+            ],
+            "Results_AC2": [
+                {
+                    "frame_label": "Importance",
+                    "relevant_elements": {
+                        "Factor": "growing the mix of touring",
+                        "Degree": "pretty",
+                        "Explanation": "to help drive conversion rate"
+                    },
+                    "relevant_trigger_word": "significant",
+                    "prompt1": [
+                        "growing the mix of touring bands is pretty much a significant factor to help drive conversion rate"
+                    ],
+                    "prompt2": [
+                        "Factor of Degree of Importance of Explanation"
+                    ]
+                }
+            ],
+            "predicted_relation": "RA"
+        },
+        {
+            "AC1": "3 times the conversion when Zillow actually connect a partner with a customer on a tour",
+            "AC2": "it doesn't take too much imagination to see how Zillow wiring up that into the Zillow super app experience could drive increased conversion rate to transaction",
+            "Relation": "RA",
+            "AC1ID": "1044470",
+            "AC2ID": "1044475",
+            "RelationID": "1044482",
+            "Results_AC1": [
+                {
+                    "frame_label": "Personal_relationship",
+                    "relevant_elements": {
+                        "Partner_1": "partner"
+                    },
+                    "relevant_trigger_word": "partner",
+                    "prompt1": [
+                        "partner / partner"
+                    ],
+                    "prompt2": [
+                        "Personal_relationship - Personal_relationsity"
+                    ]
+                }
+            ],
+            "Results_AC2": [
+                {
+                    "frame_label": "Have_as_requirement",
+                    "relevant_elements": {
+                        "Requirement": "too much imagination",
+                        "Dependent": "to see how Zillow wiring up that into the Zillow super app experience could drive increased conversion rate to transaction"
+                    },
+                    "relevant_trigger_word": "take",
+                    "prompt1": [
+                        "take a look at this:It doesn\u2019t take too much imagination to see how Zillow wiring up that into the Zillows super app experience could drive increased conversion rate to transaction"
+                    ],
+                    "prompt2": [
+                        "Have_as_requirement = Requirement - Dependent"
+                    ]
+                }
+            ],
+            "predicted_relation": "RA"
+        },
+        {
+            "AC1": "a lot of mortgage operations was actually pretty interesting",
+            "AC2": "Zillow have this factor (experience in mortgage)",
+            "Relation": "RA",
+            "AC1ID": "1044495",
+            "AC2ID": "1044500",
+            "RelationID": "1044513",
+            "Results_AC1": [
+                {
+                    "frame_label": "Businesses",
+                    "relevant_elements": {
+                        "Product": "mortgage",
+                        "Business": "operations"
+                    },
+                    "relevant_trigger_word": "operations",
+                    "prompt1": [
+                        "mortgage lending operations mortgage operations"
+                    ],
+                    "prompt2": [
+                        "Product Design Businesses Product Businesses"
+                    ]
+                }
+            ],
+            "Results_AC2": [],
+            "predicted_relation": "RA"
+        },
+        {
+            "AC1": "mortgage that will then be just integrated into the super app is really is kind of a, you know, painful but important support stepping stone along the way to the new house",
+            "AC2": "In this time period, Zillow are confident that they will be able to develop their fantastic partner network into a distribution network for mortgage that will then be just integrated into the super app in a way that puts the mortgage in its proper place,",
+            "Relation": "RA",
+            "AC1ID": "1044521",
+            "AC2ID": "1044516",
+            "RelationID": "1044527",
+            "Results_AC1": [
+                {
+                    "frame_label": "Importance",
+                    "relevant_elements": {
+                        "Factor": "support"
+                    },
+                    "relevant_trigger_word": "important",
+                    "prompt1": [
+                        "important to support"
+                    ],
+                    "prompt2": [
+                        "Importance of Factor"
+                    ]
+                }
+            ],
+            "Results_AC2": [
+                {
+                    "frame_label": "Network",
+                    "relevant_elements": {
+                        "Nodes": "distribution",
+                        "Network": "network"
+                    },
+                    "relevant_trigger_word": "network",
+                    "prompt1": [
+                        "network and network equipment distribution"
+                    ],
+                    "prompt2": [
+                        "Network Architecture Network Architecture Nodes"
+                    ]
+                }
+            ],
+            "predicted_relation": "RA"
+        },
+        {
+            "AC1": "those being customers that have raised their hand is a great starting point",
+            "AC2": "these services and improved features of integration should give Zillow quite a bit of leverage as they go through and grow this transaction count",
+            "Relation": "RA",
+            "AC1ID": "1044547",
+            "AC2ID": "1044560",
+            "RelationID": "1044566",
+            "Results_AC1": [
+                {
+                    "frame_label": "Usefulness",
+                    "relevant_elements": {
+                        "Entity": "starting point"
+                    },
+                    "relevant_trigger_word": "great",
+                    "prompt1": [
+                        "great as a starting point"
+                    ],
+                    "prompt2": [
+                        "Usefulness of Entity"
+                    ]
+                }
+            ],
+            "Results_AC2": [
+                {
+                    "frame_label": "Public_services",
+                    "relevant_elements": {
+                        "Institution": "services"
+                    },
+                    "relevant_trigger_word": "services",
+                    "prompt1": [
+                        "services and services"
+                    ],
+                    "prompt2": [
+                        "Public_services By Public_services"
+                    ]
+                }
+            ],
+            "predicted_relation": "RA"
+        }
+    ]
+}

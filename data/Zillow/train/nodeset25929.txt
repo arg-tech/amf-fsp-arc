@@ -1,0 +1,40 @@
+Operator
+
+Our final question comes from Ryan McKeveny of Zelman &amp; Associates. Ryan, please, go ahead.
+
+Ryan McKeveny
+
+Hey, thank you Rich and Allen. I appreciate all the detail, all the new stuff, and Rich, I agree with you: shout-out to the designers and marketing folks and data folks; the content of the deck is very good, so I appreciate that. But back to my question. So I've got two on the long-term opportunity. First one, somewhat similar to others, so focusing on this movement from 3% market share to 6% market share. Maybe I'll ask a bit more in terms of how we can look at the past to possibly help think about the future. So, Slide 7, you show 360k transactions in 2021 on 1.4 million connections so about a 25% conversion rate. Can you share any insight on how that conversion rate from connection to consumer or to customer compares to maybe the last, you know, 2, 3, 4, or 5 years? You know, I'd imagine both the number of connections as well as the conversion rate has improved over time. But maybe seeing a bit of a trend line there on how things have trended will help us, you know, bridge to what to expect in the future.
+
+Rich Barton
+
+Allen, do you want to take a stab at that?
+
+Allen Parker
+
+Yes, yes. You know, I guess what I'd say is that when we made a decision in 2018 to go deeper into the transaction, we -- you know, that was the start of us, you know, taking a harder look at how can we drive transactions and success for our customers through the transaction. And maybe the proxy I'll use is connections. But since 2019, we've seen our ability to drive connections and conversion, you know, through our partner agent base grow.
+
+I don't have the, I guess, the analogue to the -- compared to the 1.4 [million], 360[k], but we have seen growth as we started to focus on ensuring our customers were connected with an agent, were served well. And I think, you know, you heard about us talk about connections, high-intent customers and the things we've done to drive that and close transactions versus the more ad-based or, you know, lead-based gen that we had been prior to '19.
+
+I don't know, Brad or Rich, would you add anything to that? I just don't have the data.
+
+Rich Barton
+
+Well, it's taken a lot. I guess what I'd say, Ryan, it's like: strategically, you've been hearing us talk about Zillow 2.0 and the move towards the transaction for a few years, right? And we -- it's taken us this long to get to a point where we could even find the transaction to count, given the diversity of our business model. And so a big reason we don't have a good historical comp for you on that is that we don't have historical comps. We have worked really hard to come up with this estimate so that we can -- you know, to communicate to you all for sure, but this is how we want to manage our business and our strategy internally, all right? So this is super important for us to get right internally.
+
+But, you know, as Allen pointed out, the history of the company is about slowly but surely driving conversion rates from user into customer. And now we have what we think it should be a pretty good denominator for that.
+
+Ryan McKeveny
+
+That makes sense, thank you. A quick second question, Rich, a big picture one for you. So, you know, after the ZO wind-down, you're left with a significant amount of cash: you can focus on growth, you can repurchase stock as you have been, investing in R&amp;D. I guess to focus a bit more on the M&amp;A side of things. I guess I wonder, how do you think about the opportunity or the possibility to be more active with proptech investments, you know, either directly investing in, you know, early-stage proptech startups or outright acquiring companies? You know, I'm just -- I'm almost thinking, is there an opportunity to be somewhat of an incubator? I'm sure you see a lot of interesting tech early in the days as things get started and just wonder, you know, how you think big picture about, you know, that opportunity or just the M&amp;A opportunity to tack some good tech on over time.
+
+Rich Barton
+
+Yes. I mean, it's an opportunity. I would call -- looking at Zillow, our history is that [of] a consistent but opportunistic acquirer, okay? When we see opportunities to really accelerate what we're trying to do strategically, we will take advantage of that. And the ShowingTime acquisition last year, you know, is a good example of that. A couple of years ago when we acquired Mortgage Lenders of America, to get a -- you know, not have a cold start on our mortgage operation, that was another one.
+
+You know, Jeremy Hoffman, who runs our corp dev group in addition to strategy and IR, is probably the most popular guy in proptech. So, you know, we talk with, we run tests with, partner with all of these companies in the space. We don't have an explicit incubation venture capital -- kind of corporate venture capital endeavour. We do have a lot of opportunity in that regard. We don't necessarily think we need to invest because when things want to trade, everything kind of lands on our doorstep first anyway, you know. And I don't want to sound opportunistic -- too opportunistic that way, we have really good relationships with these companies, and we think there's a lot of cool innovation happening.
+
+Ryan McKeveny
+
+That's great, very helpful. Thank you.
+

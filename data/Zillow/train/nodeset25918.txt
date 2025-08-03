@@ -1,0 +1,28 @@
+Operator
+
+Our next question comes from Ryan McKeveny with Zelman &amp; Associates.
+
+Ryan McKeveny
+
+Okay. Thanks for taking my questions. Rich, I want to focus again on kind of the what's next for Zillow. So if I just think about the evolution to Zillow 2.0 and the efforts to build a more integrated experience, obviously, the last few years iBuying has been a big piece of that, you know -- longer-term vision of getting the Zestimate effectively to a live bid.
+
+And to Brad's question, you mentioned, you know, being committed to creating that integrated experience still, solving pain points, doing so asset and capital light. I guess just, asked slightly differently -- I mean, big picture, Zillow has always been, you know, mainly a platform that's monetized the buy side. And I think a lot of people looked at iBuying and said, this is opening up that sell-side opportunity. So maybe, you know, maybe it's the same question twice but, you know, how does this play out on the sell side going forward? What's next in that regard? What's the strategy to really drive this so it's not just viewed to be a buy-side monetization vehicle and really capture what should be a significant opportunity on the sell side?
+
+Rich Barton
+
+Yes. Thanks for the question, Ryan. I'll -- I won't just give the same answer, but it's -- there is a much more interesting scope of an answer and your focus on unlocking the sell side is where I'll land or I'll start and then Allen or anyone can jump in. But look, our dream of basically making the transaction a lot easier breaks down into -- for sellers, who are moving, breaks that down into a whole lot of pain point components, okay? And those pain points that we're trying to use our technology to solve for, you know, start with simply shopping on the site and looking at listings.
+
+So one of the big things that we have invested a lot of people and R&amp;D in, is making that shopping experience much more immersive: 3D, digital floor plans, and giving shoppers a much more realistic sense for what the home is like. So, we have a big investment there and that kind of came from this effort.
+
+We just closed the ShowingTime acquisition, which is a way for us to look at creating a touring reservation system. This is another big pain point for movers and shoppers when they're just trying to arrange to go see homes in the flesh. And with ShowingTime, we have an opportunity to turn that into a much better experience and give us a chance to actually sell some things to those customers who are in that process, which is a really interesting opportunity.
+
+Next, the mover, the seller, might want to pre-qual for the next mortgage or get a mortgage, you know. Next, we want to route documents, and do closings, and, you know, title and escrow all integrated into the same fluid experience. So, we have invested in -- those are just a few of the steps. But we've -- because of our -- because of Zillow Offers and our focus on the sell side of the busi... -- of the market that you're talking about, we have invested in each one of those components and with our technology, we have an opportunity to stitch these things together in a way that very few are going to have the opportunity to do it.
+
+So, the seller -- the Rubik's cube of unlocking the seller, you know, is a really interesting challenge. You know, it turns out that a whole bunch of buyers are sellers too, so there is a pretty heavy overlap between buyers and sellers. And we firmly believe focusing on the transaction will provide a ton of growth for us.
+
+Allen Parker
+
+Yes, I'll just touch on that, most sellers are buyers. You know, one of their friction points is freeing up equity in their current home. Obviously, iBuying provided an opportunity for that with us as a counterparty purchasing the home, but there are a lot of other proptech and opportunities for us to look at ways to free up that equity and help that seller move into their next home that are less capital-intensive and can provide that seller with possibly more value as they list their home, but with, you know, similar certainty or at least less friction.
+
+So, we believe that there will be quite a few different calls to action to help sellers as they dream into that next home, but just that are not the counterparty of us negotiating with that seller only. And as Rich mentioned, only about 10% of those sellers actually took our offer.
+

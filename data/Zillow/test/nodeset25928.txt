@@ -1,0 +1,48 @@
+Operator
+
+Our next question comes from Mark Mahaney with Evercore ISI. Mark, the line is yours.
+
+Mark Mahaney
+
+Okay. I'll go back to that 2025 outlook and I love the idea of swinging for the fences, Rich and Allen, and laying out these long-term markers. I look at the assumptions that are in there, and the one that strikes me as most aggressive is that 6% share of transactions? I know it's up 3% but that's a doubling of the share from, you know, what you had in '21. So maybe just double-click on that a little bit. The other assumptions don't seem as aggressive. That one does seem aggressive. Maybe we need some context as to where that -- if it was 3% in '21, where it was before. Or if you look at all of the different things you could do to increase that going from 3% to 6%, what do you think are the easiest things to do? And what would be the hardest things to do? Just on that particular metric because I think that's pretty key to this $5 billion outlook. Thanks you all.
+
+Rich Barton
+
+Hey Mark. Maybe I'll start, and Allen -- you guys jump in. 
+When you break it down into the components, it doesn't feel -- you know, it feels doable to me, Mark, and I'm a big believer in, you know, in BHAGs. I don't even know if I'd call this BHAG, a big hairy audacious goal. It is, no doubt, not timid, okay? But, you know, these goals end up being self-fulfilling because of the creativity they tend to release internally with all the smart people we have. And given the resources we have, I'm confident.
+
+But, you know, two rather low, you know, bits of hanging fruit. We talked about a bit on conversion here: is getting on top and really taking advantage of our position with home touring and building a digital home tour reservation system. Right now, it's super complicated to schedule a home tour. And so, you know, a good deal of home tour request demand goes unfulfilled. I don't know what the data point on that, is that, Brad? -- we might --
+
+Brad Berning
+
+Yes, it's 23% of our tours only that we're fulfilling today. 
+
+Rich Barton
+
+Yeah.
+
+Brad Berning
+
+We have meaningful opportunities to upside those. And the other point just to throw in for -- to hit there is we get about double the conversion rate on a tour of our other leads. And so, growing the mix of touring is pretty significant to help drive conversion rate.
+
+Rich Barton
+
+I think in my script, I said 3 times the conversion, Brad. I'm not sure, but --
+
+Brad Berning
+
+Sorry, correct. You're correct, Rich.
+
+Rich Barton
+
+Yes, okay. So 3 times the conversion when we actually connect a partner with a customer on a tour. And so, you know, that -- it doesn't take too much imagination to see how us wiring up that into the Zillow super app experience could drive increased conversion rate to transaction. 
+Another one is financing. You know, I did, you know, mortgages. I talked already quite a bit about that. But we had our guns in mortgages all trained towards iBuying. So all the work we've really been doing for the last couple of years with Zillow Home Loans and building our own mortgage operation was in service to iBuying. And a lot of it was actually pretty interesting. And we have this factor. We had not been focused on the bigger lever, on the bigger opportunity, which is basically distributing a mortgage product directly to our customers and via our Premier Agent partners. In this time period, we are confident that we will be able to develop our fantastic partner network into a distribution network for our mortgage that will then be just integrated into the super app in a way that puts the mortgage in its proper place, which really is kind of a, you know, painful but important support stepping stone along the way to the new house. We just wanted to be integrated right into the super app. I don't know if that -- I mean, there is a lot more to driving to that 6% but those are two of the big ones.
+
+Allen Parker
+
+Yes. And the only thing that I'd just, I guess, reiterate -- you talked about some of the features and services that we think are going to improve conversion. But starting with this, you know, 25% of homebuyers already, you know, asking to speak to an agent. And so those being customers that have raised their hand, you know, is a great starting point. And that's only, you know, being 1 in 4 right now. You know, gives us confidence that these services and improved features of integration should give us, you know, quite a bit of leverage as we go through and grow this transaction count.
+
+Mark Mahaney
+
+Ok. Thank you very much.
+

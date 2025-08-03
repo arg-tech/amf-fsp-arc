@@ -1,0 +1,48 @@
+Operator
+
+[Operator Instructions]
+
+Our first question comes from Brian Nowak of Morgan Stanley. Brian, the line is yours.
+
+Brian Nowak
+
+Great. Thank you for taking my question. I have a couple about the multiyear targets. The first one: so the 24% annualized growth on the new $5 billion target, pretty healthy growth. I guess, Rich, I'd be curious to hear, first of all, how you think about some of the keys to execution in the next couple of years to sort of realize that type of growth? And how should we think about the slope to the next couple of years' growth relative to the, call it, the next four?
+And then the second one is: if I do some math on the transactions, it looks like you already have a decent amount of seller-side transactions on the platform. Can you just talk to us again, remind us about where are you on monetizing seller leads and how big of a part is that in the long-term targets? Thanks.
+
+Rich Barton
+
+Okay, Brian. Hey, thanks. Well, maybe I'll -- maybe I'll set the table and then Allen, you can serve the real food on this one. We did drop a whole bunch of new stuff on you all, this quarter. I tell you, we had a lot of fun putting together these 2025 long-term targets as well as putting together this, you know, I think it's a pretty tight deck that maybe many of you are looking at right now that really gets to answering, Brian, exactly what you're talking about.
+
+You know, but from a table-setting perspective, it's really important to, you know, the new stuff we've said as we've made it a little crisper just what we mean by such a huge engaged audience, okay? We have always talked about the 200 million or so unique users. We put a little bit finer point on that by focusing on the app by saying: we get about 4 million daily app users, which is 3 times the size of our nearest competitor. And the key to growth really is nothing more complicated than converting more of those 4 million daily app users into transacting customers, okay?
+Another kind of really interesting and eye-opening data points that I talked about in my script was that we actually have 1.4 million of the actual homebuyers last year raised their hand to connect with us, all right? And yet we've only ended up with 3% customer transaction share. We said 360,000 transactions. So the big long lever is converting users into transactions -- into customer transactions. We're better at it. We're going to be better at dr... -- we have a history of driving that transaction penetration, no question. And innovation in both product and business model has been what that's about. But we have a lot more experience now because we have been, you know, in the guts of the business buying and selling thousands of homes. We've built a bunch of stuff to support that, and that puts us in a terrific position to now build what we're calling this "housing super app", which will act as the integration and dashboard of bringing these disparate components of the process altogether in one place in a really, you know, interesting way.
+
+I'll pass it over to Allen by saying the 2025 -- highlighting that the 2025 targets assume that we take that 3% transaction share to 6% transaction share. And given all the stuff we're doing, especially, say, in the closer term, in terms of touring and financing with mortgages, we think that is achievable and exciting.
+
+Allen Parker
+
+Yes. Thanks, Rich. And thanks for asking the question, Brian. So I guess I'll start with -- you know, the 2025 financial targets was an opportunity for us to add some more transparency about the opportunity that's ahead of us that we're excited about, as well as clarify the strong position we currently are in. And so as we think about that path to $5 billion and 45% EBITDA -- you know, as we've talked about, it's driven by this expectation that broader integrated offerings are going to drive both more transactions and higher revenue per transaction than where we are today.
+
+And from a modeling perspective and starting with the 12.2 [millions] customer TAM, both the buy side and sell side. We talked about the 360,000 transactions we participate in today and just growing that share of 3% to 6%. In addition to that, it's taking the revenue per transaction we get today of around $4,100 and growing that to $5,200 a transaction. And we think that comes from having more customers using more of our services in an integrated way.
+
+In addition, I'll just call out that those 2025 targets include our other marketplace and industry software solutions businesses growing from $609 million in 2021 to $1.2 billion in 2025. You know, as we think about the slope, we provided, you know, guidance for Q1. We think that this model is driven off of our ability to control and drive secular growth by serving the customer and integrating better with our partners. And I think there are some more near-term things and some longer-term things as we innovate, that's kind of the innovation path. And we'll continue to share as we can, you know, how that slope may play out. But right now, I think what we'd say is we feel really comfortable based on the position we're in today with our brand, our audience, our partner network, our current standing with the number of -- you know, the 1.4 million buyers who utilize our site today and the financial position we are in and the business model that can generate positive cash flow to execute well on the 2025 targets.
+
+Rich Barton
+
+I guess I served some of the dinner in there and we overlapped, but...
+
+Allen Parker
+
+Ok.
+
+Rich Barton
+
+So, there were two other things in there. You were talking about the slope, Allen, you know, in Brian's question. And that is -- a kind of implicit in it, it's kind of where are we in the S curve of penetration? Where are we in the S curve of market share? And is the path from here to 2025 convex, linear, concave, what is it?
+
+You know, here my expectations are that once we get to the 6%, given this giant gap between the 6% and our usage and engagement numbers, which are, you know, two thirds of the industry, of actual buyers that are using the site, I would expect -- it is my expectation that we will be continuing to invest for growth in a prudent way at that point. And so I expect continued growth. But I don't know what that means about the implications of the curve but, you know, I hope it's linear or better.
+
+And then on the sell-side transaction question. Yes, I think you can kind of connect dots based on what we shared and get at what our estimated sell-side transactions that we're getting -- that we are monetizing today is. You know, it is a nontrivial chunk of our 360,000 customer transactions that we estimate. And mainly, that is because people who are coming to buy homes with Zillow and with our partners -- at least half of them are also selling their home, and a whole bunch of them do end up selling with our Premier Agent partners. And so we already access the sell side of the market. Now we want to enhance that and drive share there with more products and the super app, but we already have a terrific foothold today. All right. That was a long quest... -- a long answer Brian, I'm sorry, but thanks for the question.
+
+Brian Nowak
+
+All good. Thank you both.
+

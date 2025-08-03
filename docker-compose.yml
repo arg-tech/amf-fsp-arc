@@ -1,0 +1,6 @@
+services:
+ fsp-arc:
+  container_name: fsp-arc
+  build: .
+  ports:
+  - "8000:5000"
