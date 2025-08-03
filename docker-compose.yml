@@ -1,6 +1,8 @@
 services:
- fsp-arc:
-  container_name: fsp-arc
-  build: .
-  ports:
-  - "8000:5000"
+  myapp:
+  	# Add the next two lines like this under each service:
+    container_name: fsp-arc
+    restart: unless-stopped
+    build: .
+    ports:
+      - "8000:5000"
