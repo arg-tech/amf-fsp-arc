@@ -13,4 +13,4 @@ jobs:
     with:
       target_production_server_nickname: argand
       full_app_url: amf-fsp-arc.amfws.arg.tech
-      app_port: "8000"
+      app_port: "5000"
