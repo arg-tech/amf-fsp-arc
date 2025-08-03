@@ -21,9 +21,6 @@ RobertaModel.from_pretrained('roberta-base')"
 
 COPY app/ app/
 COPY boot.sh ./
-COPY label_encoder.pkl ./
-COPY siamese_roberta_model.pt ./
-
 
 RUN chmod +x boot.sh
 
