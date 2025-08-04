@@ -1,6 +1,6 @@
 services:
   myapp:
-    container_name: fsp-arc
+    container_name: amf-fsp-arc
     restart: unless-stopped
     build: .
     ports:
