@@ -122,10 +122,14 @@ def get_data_file():
                     # ARC_result,argument_data = ARC(data, model_path="siamese_roberta_model.pt", label_encoder_path="label_encoder.pkl")
                     ARC_result, argument_data = ARC(data, model=model, label_encoder=label_encoder)
                     ARC_result = clean_output(data, ARC_result)
-                    return jsonify({
-                        "ARC_result": ARC_result,
-                        "FSP": argument_data
-                    })
+
+                    ARC_result["FSP"] = argument_data
+                    return jsonify(ARC_result)
+
+                    # return jsonify({
+                    #     "ARC_result": ARC_result,
+                    #     "FSP": argument_data
+                    # })
 
         if request.values:
 
@@ -205,10 +209,13 @@ def get_data_file():
 
                     ARC_result = clean_output(data, ARC_result)
 
-                    return jsonify({
-                        "ARC_result": ARC_result,
-                        "FSP": argument_data
-                    })
+                    ARC_result["FSP"] = argument_data
+                    return jsonify(ARC_result)
+
+                    # return jsonify({
+                    #     "ARC_result": ARC_result,
+                    #     "FSP": argument_data
+                    # })
 
 
 

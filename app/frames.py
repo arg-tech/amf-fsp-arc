@@ -19,7 +19,8 @@ from copy import deepcopy
 frame_transformer = FrameSemanticTransformer()
 import nltk
 nltk.data.path.append("/root/nltk_data")
-
+model= "https://huggingface.co/Somaye/FSP-ARC/resolve/main/siamese_roberta_model.pt"
+label_encoder = "https://huggingface.co/Somaye/FSP-ARC/resolve/main/label_encoder.pkl"
 
 class CrossAttention(nn.Module):
     def __init__(self, hidden_size, num_heads):
@@ -148,10 +149,9 @@ def ARC(data, model=None, label_encoder=None):
     if 'AIF' not in data:
         return data
 
-    # Download model and label encoder if URLs provided
     model_path = download_file_from_hf(model) if model and model.startswith("http") else model
-    label_encoder_path = download_file_from_hf(label_encoder) if label_encoder and label_encoder.startswith("http") else label_encoder
-
+    label_encoder_path = download_file_from_hf(label_encoder) if label_encoder and label_encoder.startswith(
+        "http") else label_encoder
 
     nodes = data['AIF']['nodes']
     edges = data['AIF']['edges']
@@ -496,13 +496,14 @@ if __name__ == "__main__":
                         frame_index += 1
 
                 # 3. Run ARC to predict relation types
-                ARC_result, argument_data = ARC(data, model_path="../siamese_roberta_model.pt",
-                                 label_encoder_path="../label_encoder.pkl")
+                ARC_result, argument_data = ARC(data, model=model, label_encoder=label_encoder)
 
                 # 4. Clean and print result
                 final_result = clean_output(data, ARC_result)
-                print(final_result)
-                print({"FSP": argument_data})
+                final_result["FSP"] = argument_data
+                print(json.dumps(final_result, ensure_ascii=False))
+                # print(final_result)
+                # print({"FSP": argument_data})
 
 
             else:
@@ -549,13 +550,16 @@ if __name__ == "__main__":
                     frame_index += 1
 
             # 3. Run ARC to predict relation types
-            ARC_result, argument_data = ARC(file, model_path="../siamese_roberta_model.pt", label_encoder_path="../label_encoder.pkl")
+            ARC_result, argument_data = ARC(file, model=model, label_encoder=label_encoder)
 
             # 4. Clean and print result
             final_result = clean_output(file, ARC_result)
 
-            print(final_result)
-            print({"FSP": argument_data})
+            final_result["FSP"] = argument_data
+            print(json.dumps(final_result, ensure_ascii=False))
+
+            # print(final_result)
+            # print({"FSP": argument_data})
 
         else:
             print("invalid file")
