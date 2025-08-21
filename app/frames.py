@@ -271,35 +271,60 @@ def ARC(data, model=None, label_encoder=None):
 
     # Final output: enriched argument data
     argument_data = []
+
     for entry in formatted_data:
         ac1_id = entry["AC1ID"]
         ac2_id = entry["AC2ID"]
         relation_id = entry["RelationID"]
+
         ac1_info = i_node_map.get(ac1_id, {})
         ac2_info = i_node_map.get(ac2_id, {})
 
-        result = {
-            "AC1": ac1_info.get("text", entry["AC1"]),
-            "AC2": ac2_info.get("text", entry["AC2"]),
-            "Relation": predictions.get(relation_id, entry["Relation"]),
-            "AC1ID": ac1_id,
-            "AC2ID": ac2_id,
-            "RelationID": relation_id,
-            "Results_AC1": [{
-                "frame_label": ac1_info.get("frame_label"),
-                "relevant_elements": ac1_info.get("relevant_elements", {}),
-                "relevant_trigger_word": ac1_info.get("relevant_trigger_word"),
-                "prompt1": ac1_info.get("prompt1", []),
-                "prompt2": ac1_info.get("prompt2", [])
-            }] if ac1_info.get("prompt1") else [],
-            "Results_AC2": [{
-                "frame_label": ac2_info.get("frame_label"),
-                "relevant_elements": ac2_info.get("relevant_elements", {}),
-                "relevant_trigger_word": ac2_info.get("relevant_trigger_word"),
-                "prompt1": ac2_info.get("prompt1", []),
-                "prompt2": ac2_info.get("prompt2", [])
-            }] if ac2_info.get("prompt1") else []
-        }
+        result = [
+            {
+                "ACID": ac1_id,
+                "Results": [{
+                    "frame_label": ac1_info.get("frame_label"),
+                    "relevant_elements": ac1_info.get("relevant_elements", {}),
+                    "relevant_trigger_word": ac1_info.get("relevant_trigger_word"),
+                    "prompt1": ac1_info.get("prompt1", []),
+                    "prompt2": ac1_info.get("prompt2", [])
+                }] if ac1_info.get("prompt1") else []
+            },
+            {
+                "ACID": ac2_id,
+                "Results": [{
+                    "frame_label": ac2_info.get("frame_label"),
+                    "relevant_elements": ac2_info.get("relevant_elements", {}),
+                    "relevant_trigger_word": ac2_info.get("relevant_trigger_word"),
+                    "prompt1": ac2_info.get("prompt1", []),
+                    "prompt2": ac2_info.get("prompt2", [])
+                }] if ac2_info.get("prompt1") else []
+            }
+        ]
+
+        # result = {
+        #     "AC1": ac1_info.get("text", entry["AC1"]),
+        #     "AC2": ac2_info.get("text", entry["AC2"]),
+        #     "Relation": predictions.get(relation_id, entry["Relation"]),
+        #     "AC1ID": ac1_id,
+        #     "AC2ID": ac2_id,
+        #     "RelationID": relation_id,
+        #     "Results_AC1": [{
+        #         "frame_label": ac1_info.get("frame_label"),
+        #         "relevant_elements": ac1_info.get("relevant_elements", {}),
+        #         "relevant_trigger_word": ac1_info.get("relevant_trigger_word"),
+        #         "prompt1": ac1_info.get("prompt1", []),
+        #         "prompt2": ac1_info.get("prompt2", [])
+        #     }] if ac1_info.get("prompt1") else [],
+        #     "Results_AC2": [{
+        #         "frame_label": ac2_info.get("frame_label"),
+        #         "relevant_elements": ac2_info.get("relevant_elements", {}),
+        #         "relevant_trigger_word": ac2_info.get("relevant_trigger_word"),
+        #         "prompt1": ac2_info.get("prompt1", []),
+        #         "prompt2": ac2_info.get("prompt2", [])
+        #     }] if ac2_info.get("prompt1") else []
+        # }
 
         argument_data.append(result)
 
