@@ -40,6 +40,20 @@ def clean_output(original, arc_modified):
     return cleaned
 
 
+def remove_duplicate_acids(fsp_list):
+    seen_acids = set()
+    unique_fsp = []
+
+    for pair in fsp_list:
+        filtered_pair = []
+        for entry in pair:
+            ac_id = entry.get("ACID")
+            if ac_id not in seen_acids:
+                seen_acids.add(ac_id)
+                filtered_pair.append(entry)
+        if filtered_pair:
+            unique_fsp.append(filtered_pair)
+    return unique_fsp
 
 
 def is_valid_json(my_json):
@@ -122,6 +136,7 @@ def get_data_file():
                     # ARC_result,argument_data = ARC(data, model_path="siamese_roberta_model.pt", label_encoder_path="label_encoder.pkl")
                     ARC_result, argument_data = ARC(data, model=model, label_encoder=label_encoder)
                     ARC_result = clean_output(data, ARC_result)
+                    argument_data = remove_duplicate_acids(argument_data)
 
                     ARC_result["FSP"] = argument_data
                     return jsonify(ARC_result)
@@ -208,6 +223,7 @@ def get_data_file():
                     ARC_result, argument_data = ARC(data, model=model, label_encoder=label_encoder)
 
                     ARC_result = clean_output(data, ARC_result)
+                    argument_data = remove_duplicate_acids(argument_data)
 
                     ARC_result["FSP"] = argument_data
                     return jsonify(ARC_result)
